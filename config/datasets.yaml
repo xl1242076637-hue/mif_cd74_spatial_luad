@@ -1,0 +1,90 @@
+project: early_luad_epithelial_macrophage_niche
+created: "2026-05-29"
+datasets:
+  - accession: GSE189357
+    title: "Single-cell RNA-seq atlas of AIS, MIA, and IAC in lung adenocarcinoma progression"
+    modality: "scRNA-seq"
+    disease_context: "early LUAD progression"
+    stages: ["AIS", "MIA", "IAC"]
+    role: "first-wave single-cell reference for epithelial and macrophage states"
+    priority: 1
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189357"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE189nnn/GSE189357/suppl/"
+    notes: "Small enough to inspect early; useful with matched spatial dataset GSE189487."
+
+  - accession: GSE189487
+    title: "Spatial transcriptomics of AIS, MIA, and IAC in lung adenocarcinoma progression"
+    modality: "spatial transcriptomics"
+    disease_context: "early LUAD progression"
+    stages: ["AIS", "MIA", "IAC"]
+    role: "first-wave spatial dataset for epithelial-macrophage niche mapping"
+    priority: 1
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189487"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE189nnn/GSE189487/suppl/"
+    notes: "Reported to include processed spatial files and Seurat object links in the GEO page."
+    external_processed_sources:
+      - source: "CNGB STOMICS"
+        dataset_id: "STDS0000125"
+        sample_accession: "GSM5702474"
+        sample_title: "TD2 [ST]"
+        interpreted_stage: "IAC"
+        processed_h5ad_url: "https://ftp.cngb.org/pub/SciRAID/stomics/STDS0000125/stomics/GSM5702474/GSM5702474_10x_Visium_processed.h5ad"
+        top100_markers_url: "https://ftp.cngb.org/pub/SciRAID/stomics/STDS0000125/stomics/GSM5702474/GSM5702474_10x_Visium_processed.top100.cluster.markers.tsv"
+        notes: "Only GSM5702474 was exposed in STOMICS for this dataset at inspection time; useful for proof-of-code but not a substitute for the full six-sample GEO tar."
+
+  - accession: GSE282617
+    title: "Normal, AIS, MIA, and IAC bulk RNA-seq cohort"
+    modality: "bulk RNA-seq"
+    disease_context: "early LUAD progression"
+    stages: ["Normal", "AIS", "MIA", "IAC"]
+    role: "external validation cohort for niche signatures"
+    priority: 1
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282617"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE282nnn/GSE282617/suppl/"
+    notes: "Small processed expression data; useful for quick signature validation."
+
+  - accession: GSE307534
+    title: "Visium spatial transcriptomic maps of normal lung, precursor lesions, and LUAD"
+    modality: "10x Visium spatial transcriptomics"
+    disease_context: "normal-AAH-AIS-MIA-LUAD progression"
+    stages: ["Normal", "AAH", "AIS", "MIA", "LUAD"]
+    role: "primary external spatial validation cohort for niche recurrence across the full precursor-LUAD sequence"
+    priority: 1
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307534"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE307nnn/GSE307534/suppl/"
+    code_url: "https://github.com/FuduanPeng/LungPCA_Code"
+    notes: "LungPCA spatial dataset; rich and large. Use to validate whether epithelial progenitor-myeloid niches recur in AAH/AIS/MIA/LUAD."
+
+  - accession: GSE308103
+    title: "snRNA-seq of normal lung, precursor lesions, and LUAD"
+    modality: "snRNA-seq"
+    disease_context: "normal-AAH-AIS-MIA-LUAD progression"
+    stages: ["Normal", "AAH", "AIS", "MIA", "LUAD"]
+    role: "primary external single-nucleus validation cohort for epithelial progenitor and myeloid state definitions"
+    priority: 1
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE308103"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE308nnn/GSE308103/suppl/"
+    code_url: "https://github.com/FuduanPeng/LungPCA_Code"
+    notes: "LungPCA snRNA dataset. Use before spatial remapping to refine and externally validate epithelial progenitor, SPP1/IL1B/TREM2 macrophage, and inflammatory myeloid states."
+
+  - accession: GSE164789
+    title: "Single-cell and single-cell TCR profiling of precursor LUAD"
+    modality: "scRNA-seq/scTCR-seq"
+    disease_context: "precursor and early LUAD immune microenvironment"
+    stages: ["AAH", "AIS", "MIA", "IAC", "LUAD"]
+    role: "large external immune and epithelial-state validation cohort with TCR context"
+    priority: 2
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164789"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE164nnn/GSE164789/suppl/"
+    notes: "Use to test whether the candidate macrophage and epithelial states are consistent in a precursor LUAD scRNA/scTCR dataset."
+
+  - accession: GSE131907
+    title: "Large-scale single-cell transcriptomic atlas of lung cancer"
+    modality: "scRNA-seq"
+    disease_context: "LUAD and lung cancer tumor microenvironment reference"
+    stages: ["Normal", "Tumor", "Metastasis"]
+    role: "broad external reference for macrophage and epithelial-state specificity beyond precursor-only cohorts"
+    priority: 3
+    geo_url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE131907"
+    supplementary_url: "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131907/suppl/"
+    notes: "Large processed scRNA reference with annotation and raw/normalized matrices. Use for macrophage/TME reference, not as the main early-progression discovery cohort."

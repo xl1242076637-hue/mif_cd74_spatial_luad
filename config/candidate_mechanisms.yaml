@@ -1,0 +1,75 @@
+axes:
+  - id: spp1_trem2_macrophage_epithelial
+    label: SPP1/TREM2 macrophage program to epithelial-matrix receptors
+    source_genes: [SPP1, TREM2, PLA2G7, CHIT1, APOE, LGALS3]
+    source_expected_celltype: Myeloid cells
+    target_genes: [CD44, ITGAV, ITGB1, ITGA5]
+    target_expected_celltype: Epithelial cells
+    bulk_genes: [SPP1, TREM2, PLA2G7, APOE, LGALS3, CD44, ITGAV, ITGB1, ITGA5]
+    spatial_target: spp1_macrophage
+    snrna_context: macrophage
+    snrna_score: spp1_macrophage
+    scrna_context: macrophage
+    scrna_score: spp1_macrophage
+    perturbation_genes: [SPP1, TREM2, PLA2G7]
+    notes: Specificity-filtered SPP1 axis; prioritize only if spatial and myeloid-specific evidence remain positive.
+
+  - id: inflammatory_il1_tnf_cxcl8
+    label: IL1B/TNF/CXCL8 inflammatory myeloid program
+    source_genes: [IL1B, TNF, CXCL8, CCL3, CCL4, NLRP3]
+    source_expected_celltype: Myeloid cells
+    target_genes: [IL1R1, IL1RAP, NFKBIA]
+    target_expected_celltype: Epithelial cells
+    bulk_genes: [IL1B, TNF, CXCL8, CCL3, CCL4, NLRP3, IL1R1, IL1RAP, NFKBIA]
+    spatial_target: inflammatory_macrophage
+    snrna_context: macrophage
+    snrna_score: inflammatory_macrophage
+    scrna_context: macrophage
+    scrna_score: inflammatory_macrophage
+    perturbation_genes: [IL1B, TNF, NLRP3, CXCL8]
+    notes: Best interpreted as inflammatory myeloid activation; receptor-side evidence may be incomplete.
+
+  - id: c1q_apoe_trem2_lgals3
+    label: C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program
+    source_genes: [C1QA, C1QB, C1QC, APOE, TREM2, LGALS3, MARCO]
+    source_expected_celltype: Myeloid cells
+    target_genes: [LRP1, TREM2, CD44]
+    target_expected_celltype: Epithelial cells
+    bulk_genes: [C1QA, C1QB, C1QC, APOE, TREM2, LGALS3, MARCO]
+    spatial_target: c1q_macrophage
+    snrna_context: macrophage
+    snrna_score: c1q_macrophage
+    scrna_context: macrophage
+    scrna_score: c1q_macrophage
+    perturbation_genes: [APOE, TREM2, LGALS3]
+    notes: Strong myeloid specificity expected; current snRNA/scRNA summaries may lack c1q score fields.
+
+  - id: mif_cd74_cxcr4
+    label: MIF-CD74/CXCR4 stress-immunoregulatory axis
+    source_genes: [MIF]
+    source_expected_celltype: Epithelial cells
+    target_genes: [CD74, CXCR4, CD44]
+    target_expected_celltype: Myeloid cells
+    bulk_genes: [MIF, CD74, CXCR4, CD44]
+    spatial_target: inflammatory_macrophage
+    snrna_context: all_cells
+    snrna_score: inflammatory_macrophage
+    scrna_context: macrophage
+    scrna_score: inflammatory_macrophage
+    perturbation_genes: [MIF, CD74, CXCR4, CD44]
+    notes: Included as a ligand-receptor hypothesis; needs direct receptor expression support before perturbation.
+
+  - id: cxcl9_cxcl10_cxcr3
+    label: CXCL9/CXCL10-CXCR3 interferon chemokine axis
+    source_genes: [CXCL9, CXCL10]
+    source_expected_celltype: Myeloid cells
+    target_genes: [CXCR3]
+    target_expected_celltype: T/NK cells
+    bulk_genes: [CXCL9, CXCL10, CXCR3]
+    spatial_target: inflammatory_macrophage
+    snrna_context: all_cells
+    snrna_score: inflammatory_macrophage
+    scrna_context: macrophage
+    scrna_score: inflammatory_macrophage
+    perturbation_genes: [CXCL9, CXCL10, CXCR3]
+    notes: More immune-recruitment than epithelial-macrophage niche; likely secondary unless strong evidence appears.

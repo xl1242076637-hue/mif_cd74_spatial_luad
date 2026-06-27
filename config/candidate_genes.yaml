@@ -1,0 +1,64 @@
+panels:
+  epithelial_progenitor:
+    - EPCAM
+    - KRT8
+    - KRT18
+    - KRT19
+    - CLDN4
+    - SFTPC
+    - MUC1
+  proliferation_emt:
+    - MKI67
+    - TOP2A
+    - PCNA
+    - VIM
+    - SNAI2
+    - ZEB1
+    - S100A4
+    - SRGN
+  macrophage_niche:
+    - CD68
+    - CD163
+    - LST1
+    - IL1B
+    - IL1R1
+    - SPP1
+    - C1QA
+    - C1QB
+    - C1QC
+    - APOE
+    - SELENOP
+  ligand_receptor_axes:
+    - TGFB1
+    - TGFB2
+    - TGFBR1
+    - TGFBR2
+    - CXCL8
+    - CXCR1
+    - CXCR2
+    - CCL2
+    - CCR2
+    - CD44
+    - ITGA4
+    - ITGAV
+    - ITGB1
+    - ITGA5
+    - SPP1
+    - TREM2
+    - PLA2G7
+    - CHIT1
+    - LGALS3
+    - CD9
+    - MIF
+    - CD74
+    - CXCR4
+    - IL1B
+    - IL1RAP
+    - NFKBIA
+    - TNF
+    - CCL3
+    - CCL4
+    - NLRP3
+    - CXCL9
+    - CXCL10
+    - CXCR3

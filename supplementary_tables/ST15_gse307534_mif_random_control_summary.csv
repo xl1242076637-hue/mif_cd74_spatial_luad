@@ -1,0 +1,2 @@
+target_gene,target_paired_difference_mean,n_control_genes,control_mean,control_median,control_sd,target_percentile,empirical_upper_p
+MIF,0.14050055323632685,20,0.06959765742077173,0.08344713054720188,0.05569203917464956,0.95,0.09523809523809523

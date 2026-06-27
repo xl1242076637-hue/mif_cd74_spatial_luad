@@ -1,0 +1,201 @@
+axis_id,axis_label,evidence_type,patient_id,late,precursor,late_minus_precursor
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P1,0.1048031496062992,0.0112663237039968,0.0935368259023024
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P11,-0.0251000339097999,0.1610285505124451,-0.186128584422245
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P12,0.1288797968397291,0.1214676536852269,0.007412143154502213
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P14,0.2128969359331477,-0.0823897535667964,0.2952866894999441
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P16,0.1870837642192347,0.1016438763376933,0.0854398878815414
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P17,0.0873749630068068,-0.0033956473214286,0.0907706103282354
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P19,0.31391345847916,0.1273582733812949,0.18655518509786512
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P2,-0.3120516551473263,-0.130213849287169,-0.1818378058601573
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P20,0.0566745074977947,0.063966189856957,-0.007291682359162298
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P21,-0.0250764159424633,-0.07844749761582506,0.05337108167336176
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P22,0.1525580634609094,0.1323941707408095,0.020163892720099885
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P23,-0.0423641703377387,0.07919894592487894,-0.12156311626261765
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P24,-0.0026067558954748,0.0099050445103858,-0.012511800405860599
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P25,-0.0279746835443037,-0.0494578313253011,0.0214831477809974
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P3,-0.1287499999999999,-0.2759140216954601,0.1471640216954602
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P4,-0.230357473035439,-0.0630925174735935,-0.1672649555618455
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P5,-0.2494637537239326,0.0679542857142856,-0.3174180394382182
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P6,-0.0755475946775843,-0.0168436052725329,-0.05870398940505141
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P8,0.3389402087946851,0.0119263899765074,0.3270138188181777
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,source_near_epithelial_progenitor,P9,0.1521174142480211,-0.02753672816932955,0.17965414241735067
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P1,0.1224530587522714,0.0137119113573406,0.1087411473949308
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P11,0.0722380467955238,0.2043997071742313,-0.13216166037870752
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P12,0.3054006772009029,0.2484711940778886,0.056929483123014324
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P14,0.3129630919220055,-0.0605901426718547,0.3735532345938602
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P16,0.1719234746639089,0.1612514863258026,0.010671988338106286
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P17,0.115122817401598,0.1002315848214285,0.0148912325801695
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P19,0.3395036589245943,0.2304805755395684,0.10902308338502587
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P2,-0.232040742088032,-0.0498099117447385,-0.1822308303432935
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P20,0.2761981770067627,0.2123634590377113,0.06383471796905138
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P21,0.1745250224752771,0.145947726685434,0.02857729578984311
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P22,0.2566797513902519,0.20029222246601447,0.05638752892423743
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P23,0.2227019089574154,0.22143939141966346,0.0012625175377519449
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P24,0.1846972594008923,0.1856557863501484,-0.0009585269492561055
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P25,0.4240611814345991,0.0668631669535283,0.3571980144810708
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P3,-0.2759570312499999,-0.2489152269987946,-0.02704180425120528
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P4,-0.1810693374422187,0.0210863899482643,-0.20215572739048301
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P5,-0.1995034756703079,0.1223352380952381,-0.321838713765546
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P6,-0.1545922893210508,0.0646740292126826,-0.2192663185337334
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P8,0.3090034799114205,0.091018010963195,0.2179854689482255
+c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program,target_near_epithelial_progenitor,P9,0.1133937994722955,-0.0006990472339657499,0.11409284670626124
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P1,-0.0434645669291337,0.0832766125840918,-0.1267411795132255
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P11,0.0454493048491013,0.0215556368960468,0.0238936679530545
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P12,0.0429937923250564,0.0861731573865465,-0.0431793650614901
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P14,0.0521274373259052,-0.0004215304798962,0.0525489678058014
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P16,0.0521406411582213,0.0704785969084423,-0.018337955750221
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P17,-0.0229180230837525,0.01595703125,-0.038875054333752504
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P19,0.1654724785237034,0.0766820143884892,0.08879046413521419
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P2,-0.0118988723172062,-0.0211371350984384,0.009238262781232201
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P20,0.3251514260511614,0.0381501950585175,0.28700123099264385
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P21,-0.0184027569673359,-0.01689344542534565,-0.0015093115419902506
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P22,0.0692214589466797,0.00194135953536955,0.06728009941131016
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P23,-0.1145190895741556,0.0694724480113434,-0.18399153758549902
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P24,0.1895538559592096,0.0255430267062314,0.1640108292529782
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P25,0.0909810126582279,-0.0162822719449225,0.1072632846031504
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P3,0.0288671875,0.0069787063077542,0.021888481192245797
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P4,-0.2255192604006163,-0.0364151822044447,-0.1891040781961716
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P5,-0.1861105594174114,0.0283504761904761,-0.21446103560788748
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P6,0.0818457864210168,0.0026220163876023,0.07922377003341449
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P8,0.1024580828851629,0.0156225528582615,0.08683553002690139
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,source_near_epithelial_progenitor,P9,0.0201912928759894,-0.00690175430251065,0.02709304717850005
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P1,0.09152634766808,0.0238068856351404,0.0677194620329396
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P11,0.03391997287216,0.024915812591508,0.009004160280651995
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P12,0.0282590293453724,0.0642259414225941,-0.03596691207722169
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P14,0.0225278551532033,0.0015920881971465,0.0209357669560568
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P16,0.0167683557394002,0.0236623067776456,-0.006893951038245402
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P17,-0.0017638354542763,0.0102818080357142,-0.012045643489990501
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P19,0.055478841870824,0.0336230215827338,0.021855820288090196
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P2,0.0119679883594034,0.0009674134419551,0.0110005749174483
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P20,0.0956012937371361,0.067704811443433,0.027896482293703104
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P21,0.0023254420137848,0.0045476694319148,-0.0022222274181299996
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P22,0.0537226038599934,0.01405673513477015,0.03966586872522325
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P23,-0.0017033773861967,0.03096272716696575,-0.03266610455316245
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P24,0.1003186743148502,0.0307359050445103,0.0695827692703399
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P25,0.0002215189873417,-0.0014672977624784,0.0016888167498201
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P3,0.0277985491071428,0.0210727199678585,0.006725829139284302
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P4,0.034628659476117,0.021077417276316048,0.013551242199800952
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P5,-0.0894505130751407,0.0190399999999999,-0.1084905130751406
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P6,0.076847492323439,0.003897399358746,0.072950092964693
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P8,0.030079088895919,0.0049804228660924,0.025098666029826598
+cxcl9_cxcl10_cxcr3,CXCL9/CXCL10-CXCR3 interferon chemokine axis,target_near_epithelial_progenitor,P9,0.0061477572559366,-0.00122232727027675,0.0073700845262133505
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P1,-0.0116111447607512,-0.0566561139691333,0.0450449692083821
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P11,0.1951610715496777,0.0756332357247437,0.11952783582493401
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P12,0.0902116252821671,0.123617637592533,-0.0334060123103659
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P14,0.1427889972144847,-0.017166018158236,0.15995501537272072
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P16,0.1768976215098242,0.0987217598097502,0.07817586170007398
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P17,0.0432642793725954,0.0290150669642856,0.014249212408309803
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P19,0.2101845370664969,0.0351942446043164,0.1749902924621805
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P2,-0.2848199345216443,-0.0863645621181263,-0.19845537240351796
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P20,0.3760746839164952,0.1273894668400519,0.24868521707644328
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P21,0.0550554390170812,0.039614264826310544,0.015441174190770658
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P22,0.1527739614000652,0.1007332285026845,0.05204073289738069
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P23,-0.0962224669603523,0.0223202409888964,-0.1185427079492487
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P24,0.2658891013384321,0.1084213649851632,0.15746773635326888
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P25,0.1480907172995779,-0.0249053356282272,0.1729960529278051
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P3,-0.1826395089285715,-0.2610687022900765,0.078429193361505
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P4,-0.2196055469953775,0.02380596518461025,-0.24341151217998774
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P5,-0.146577292287322,0.0940800000000001,-0.24065729228732208
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P6,-0.0337905151825315,0.0410295689348057,-0.0748200841173372
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P8,0.2496077190762416,-0.0269616288175411,0.2765693478937827
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,source_near_epithelial_progenitor,P9,0.1014973614775725,-0.026142235065833352,0.12763959654340584
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P1,0.0398425196850392,0.0139612188365651,0.0258813008484741
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P11,0.2170634113258732,0.192807467057101,0.0242559442687722
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P12,0.2232844243792324,0.2690473125201157,-0.04576288814088331
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P14,0.1491051532033426,-0.0357782101167315,0.1848833633200741
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P16,0.1371613236814892,0.1652259215219976,-0.02806459784050841
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P17,0.0899052974252738,0.0491824776785715,0.0407228197467023
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P19,0.3768151447661469,0.2397381294964028,0.1370770152697441
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P2,-0.0962822844670789,0.0875526137135097,-0.1838348981805886
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P20,0.3023228462216994,0.2675780234070222,0.03474482281467722
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P21,0.2107821396463889,0.21762070672648332,-0.006838567080094421
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P22,0.26702649656526,0.20866451566927524,0.058361980895984766
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P23,0.2186637298091043,0.2534685488528622,-0.03480481904375787
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P24,0.3372084130019121,0.243293768545994,0.09391464445591813
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P25,0.2811497890295358,0.07947504302926,0.2016747460002758
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P3,-0.3034040178571428,-0.1823945359582162,-0.12100948189892663
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P4,-0.0865392912172573,0.07408404688634271,-0.16062333810360002
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P5,-0.0995796094008607,0.0424609523809523,-0.142040561781813
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P6,-0.0710303650631183,0.0907695048094049,-0.1617998698725232
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P8,0.3238500474533377,0.1274549725920125,0.19639507486132518
+inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8 inflammatory myeloid program,target_near_epithelial_progenitor,P9,0.0956596306068601,0.00821844445633665,0.08744118615052345
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P1,0.1582192610539066,0.0444440047487138,0.1137752563051928
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P11,0.1731976941336046,0.1383345534407027,0.03486314069290192
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P12,0.2675733634311511,0.2356775024139041,0.031895861017247035
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P14,0.1704143454038997,0.0150259403372243,0.1553884050666754
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P16,0.3810961737331955,0.0970035671819262,0.2840926065512693
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P17,0.1254394791358389,0.0375223214285714,0.08791715770726749
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P19,0.2672701240852688,0.1943539568345323,0.07291616725073649
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P2,0.1727137140778465,0.0691547861507128,0.1035589279271337
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P20,0.4204028226992061,0.2139336801040312,0.2064691425951749
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P21,0.35367395864549,0.14859654650029763,0.20507741214519237
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P22,0.1839908406934904,0.14673145444555097,0.037259386247939424
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P23,0.3752129221732746,0.16748018675516013,0.2077327354181145
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P24,0.429987253027406,0.2013056379821958,0.22868161504521017
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P25,0.4908966244725738,0.0682788296041307,0.4226177948684431
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P3,0.2392773437499999,0.1252591402169546,0.11401820353304529
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P4,0.1376456086286595,0.0318996583732037,0.10574595025545579
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P5,0.1139159218801723,0.1996685714285714,-0.08575264954839909
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P6,0.1560696008188332,0.0464873530459565,0.1095822477728767
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P8,0.341730465042708,0.1104620203602191,0.2312684446824889
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,source_near_epithelial_progenitor,P9,0.1536774406332454,0.00703378979686085,0.14664365083638456
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P1,0.1072198667474257,0.0845350217649386,0.0226848449824871
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P11,0.0483485927433028,0.2305893118594436,-0.1822407191161408
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P12,0.3495033860045146,0.3076279369166398,0.04187544908787477
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P14,0.3238091922005571,-0.0754215304798962,0.3992307226804533
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P16,0.1216390899689763,0.1484571938168846,-0.02681810384790831
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P17,0.2035809411068362,0.1052873883928571,0.09829355271397909
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P19,0.3781291759465478,0.2333007194244605,0.1448284565220873
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P2,-0.1088395780283739,-0.0515003394433129,-0.05733923858506101
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P20,0.2454160541017348,0.1960825747724317,0.0493334793293031
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P21,0.01684447108181,0.07233328128748405,-0.05548881020567405
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P22,0.2782564605822701,0.2000395412205738,0.07821691936169631
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P23,0.1833186490455213,0.21919238696586868,-0.03587373792034737
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P24,0.0065646908859145,0.1406646884272996,-0.1340999975413851
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P25,0.0885864978902953,0.0244277108433734,0.06415878704692189
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P3,-0.2051841517857143,-0.2557854560064283,0.050601304220714016
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P4,-0.1457226502311248,0.0331287188262932,-0.178851369057418
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P5,-0.1697020854021846,0.1547809523809524,-0.32448303778313703
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P6,-0.0958307744796998,0.050648379052369,-0.1464791535320688
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P8,0.3680670673837393,0.122067345340642,0.24599972204309728
+mif_cd74_cxcr4,MIF-CD74/CXCR4 stress-immunoregulatory axis,target_near_epithelial_progenitor,P9,0.2253660949868073,0.002150220700016501,0.2232158742867908
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P1,0.0829981829194426,0.0311436485951722,0.051854534324270396
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P11,-0.0393794506612411,0.1945278184480234,-0.2339072691092645
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P12,0.1811766365688487,0.202616672030898,-0.02144003546204931
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P14,0.2779178272980502,-0.0606712062256808,0.338589033523731
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P16,0.2438728024819028,0.1163733650416171,0.1274994374402857
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P17,0.1017105652559928,0.0672098214285714,0.034500743827421396
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P19,0.3430607699650016,0.1328258992805754,0.21023487068442623
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P2,-0.2653328483084758,-0.123621860149355,-0.1417109881591208
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P20,0.2407615407233166,0.092152145643693,0.1486093950796236
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P21,0.0160053940665267,-0.06828224124667175,0.08428763531319844
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P22,0.1896663395485771,0.1465437297582144,0.0431226097903627
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P23,0.0309324522760646,0.06885714610927485,-0.037924693833210246
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P24,-0.0052581261950286,0.003513353115727,-0.0087714793107556
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P25,0.0781434599156118,-0.0548881239242684,0.1330315838398802
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P3,-0.1052594866071428,-0.2932462836480515,0.1879867970409087
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P4,-0.0581386748844375,-0.07794878736085455,0.01981011247641705
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P5,-0.3042568685865607,0.1266285714285716,-0.4308854400151323
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P6,0.0223063800750597,0.0211863199144995,0.0011200601605601997
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P8,0.3642613097121164,0.0673923257635082,0.29686898394860817
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,source_near_epithelial_progenitor,P9,0.1882948548812665,-0.0031821255780120003,0.1914769804592785
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P1,0.1581162931556632,0.0690977443609023,0.0890185487947609
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P11,0.1451915903696167,0.2265556368960468,-0.08136404652643009
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P12,0.3239841986455981,0.2904634695848085,0.03352072906078957
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P14,0.3751566852367688,-0.0088683527885862,0.38402503802535504
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P16,0.3488159255429163,0.1752080856123662,0.1736078399305501
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P17,0.1383249482095294,0.1102064732142856,0.028118474995243795
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P19,0.3731689468660516,0.2614244604316546,0.111744486434397
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P2,-0.1758202982902874,0.0268295994568906,-0.20264989774717798
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P20,0.3786974419288444,0.25796488946684,0.12073255246200443
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P21,0.2920017980221756,0.2143052332641281,0.07769656475804748
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P22,0.2600523388943409,0.2199768491170034,0.040075489777337464
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P23,0.3203634361233479,0.2519811190083717,0.06838231711497617
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P24,0.3478776290630976,0.2114183976261128,0.1364592314369848
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P25,0.460084388185654,0.0806755593803786,0.3794088288052754
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P3,-0.2971902901785714,-0.2067938931297709,-0.09039639704880051
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P4,-0.0790785824345146,0.06624625789998875,-0.14532484033450335
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P5,-0.0196954650777887,0.1136495238095238,-0.1333449888873125
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P6,-0.0676560900716478,0.0962166013537584,-0.1638726914254062
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P8,0.3332268269534957,0.1010023492560688,0.2322244776974269
+spp1_trem2_macrophage_epithelial,SPP1/TREM2 macrophage program to epithelial-matrix receptors,target_near_epithelial_progenitor,P9,0.1208146437994723,0.0107274022805338,0.11008724151893849

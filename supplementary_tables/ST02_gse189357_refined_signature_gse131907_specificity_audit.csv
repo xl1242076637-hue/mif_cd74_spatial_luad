@@ -1,0 +1,181 @@
+﻿signature,rank,gene,expected_celltype,top_celltype,top_mean_expression,specificity_status
+epithelial_progenitor_like_vs_other_epithelial,1,KRT7,Epithelial cells,Epithelial cells,1.573822,expected
+epithelial_progenitor_like_vs_other_epithelial,2,TACSTD2,Epithelial cells,Epithelial cells,1.2621814,expected
+epithelial_progenitor_like_vs_other_epithelial,3,CLDN3,Epithelial cells,Epithelial cells,1.0199356,expected
+epithelial_progenitor_like_vs_other_epithelial,4,KRT19,Epithelial cells,Epithelial cells,2.1193964,expected
+epithelial_progenitor_like_vs_other_epithelial,5,KRT8,Epithelial cells,Epithelial cells,1.7875321,expected
+epithelial_progenitor_like_vs_other_epithelial,6,CLDN4,Epithelial cells,Epithelial cells,1.6479083,expected
+epithelial_progenitor_like_vs_other_epithelial,7,GDF15,Epithelial cells,Epithelial cells,0.8355422,expected
+epithelial_progenitor_like_vs_other_epithelial,8,TNFRSF12A,Epithelial cells,Epithelial cells,0.88869053,expected
+epithelial_progenitor_like_vs_other_epithelial,9,ANXA3,Epithelial cells,Epithelial cells,0.3411511,expected
+epithelial_progenitor_like_vs_other_epithelial,10,CLDN7,Epithelial cells,Epithelial cells,0.96880203,expected
+epithelial_progenitor_like_vs_other_epithelial,11,CRIP2,Epithelial cells,Endothelial cells,1.0248424,off_target
+epithelial_progenitor_like_vs_other_epithelial,12,EPCAM,Epithelial cells,Epithelial cells,1.5270214,expected
+epithelial_progenitor_like_vs_other_epithelial,13,CD24,Epithelial cells,Epithelial cells,0.95535636,expected
+epithelial_progenitor_like_vs_other_epithelial,14,KRT18,Epithelial cells,Epithelial cells,2.0868473,expected
+epithelial_progenitor_like_vs_other_epithelial,15,TM4SF1,Epithelial cells,Endothelial cells,1.6535448,off_target
+epithelial_progenitor_like_vs_other_epithelial,16,EMP2,Epithelial cells,Epithelial cells,1.1570581,expected
+epithelial_progenitor_like_vs_other_epithelial,17,CAV2,Epithelial cells,Endothelial cells,0.7386811,off_target
+epithelial_progenitor_like_vs_other_epithelial,18,ANXA2,Epithelial cells,Epithelial cells,2.1341023,expected
+epithelial_progenitor_like_vs_other_epithelial,19,MDK,Epithelial cells,Epithelial cells,1.6779981,expected
+epithelial_progenitor_like_vs_other_epithelial,20,SPINT1,Epithelial cells,Epithelial cells,0.80071616,expected
+epithelial_progenitor_like_vs_other_epithelial,21,PERP,Epithelial cells,Epithelial cells,1.1009884,expected
+epithelial_progenitor_like_vs_other_epithelial,22,IFT57,Epithelial cells,Epithelial cells,0.6793995,expected
+epithelial_progenitor_like_vs_other_epithelial,23,PLPP2,Epithelial cells,Epithelial cells,0.7428706,expected
+epithelial_progenitor_like_vs_other_epithelial,24,CST6,Epithelial cells,Epithelial cells,0.5942903,expected
+epithelial_progenitor_like_vs_other_epithelial,25,SOX4,Epithelial cells,Epithelial cells,1.3167295,expected
+epithelial_progenitor_like_vs_other_epithelial,26,RND3,Epithelial cells,Epithelial cells,0.49253505,expected
+epithelial_progenitor_like_vs_other_epithelial,27,IFI27,Epithelial cells,Endothelial cells,2.3318768,off_target
+epithelial_progenitor_like_vs_other_epithelial,28,CYP4B1,Epithelial cells,Epithelial cells,0.13492198,expected
+epithelial_progenitor_like_vs_other_epithelial,29,CTGF,Epithelial cells,Fibroblasts,0.95385444,off_target
+epithelial_progenitor_like_vs_other_epithelial,30,RAB11FIP1,Epithelial cells,Epithelial cells,0.70861125,expected
+proliferating_epithelial_vs_other_epithelial,1,PCNA,Epithelial cells,Epithelial cells,0.26746076,expected
+proliferating_epithelial_vs_other_epithelial,2,TOP2A,Epithelial cells,Epithelial cells,0.13123812,expected
+proliferating_epithelial_vs_other_epithelial,3,PCLAF,Epithelial cells,,,missing
+proliferating_epithelial_vs_other_epithelial,4,MKI67,Epithelial cells,Epithelial cells,0.07881588,expected
+proliferating_epithelial_vs_other_epithelial,5,STMN1,Epithelial cells,Epithelial cells,0.5643619,expected
+proliferating_epithelial_vs_other_epithelial,6,CKS1B,Epithelial cells,Epithelial cells,0.5787548,expected
+proliferating_epithelial_vs_other_epithelial,7,TUBB,Epithelial cells,Fibroblasts,1.1961304,off_target
+proliferating_epithelial_vs_other_epithelial,8,TK1,Epithelial cells,Epithelial cells,0.23831794,expected
+proliferating_epithelial_vs_other_epithelial,9,TYMS,Epithelial cells,Epithelial cells,0.1317634,expected
+proliferating_epithelial_vs_other_epithelial,10,H2AFV,Epithelial cells,Epithelial cells,1.0010381,expected
+proliferating_epithelial_vs_other_epithelial,11,UBE2T,Epithelial cells,Epithelial cells,0.16167782,expected
+proliferating_epithelial_vs_other_epithelial,12,DEK,Epithelial cells,Epithelial cells,0.8578588,expected
+proliferating_epithelial_vs_other_epithelial,13,NUCKS1,Epithelial cells,Epithelial cells,1.2358172,expected
+proliferating_epithelial_vs_other_epithelial,14,UBE2C,Epithelial cells,Epithelial cells,0.21111032,expected
+proliferating_epithelial_vs_other_epithelial,15,RANBP1,Epithelial cells,Epithelial cells,0.861361,expected
+proliferating_epithelial_vs_other_epithelial,16,CARHSP1,Epithelial cells,Epithelial cells,0.6438885,expected
+proliferating_epithelial_vs_other_epithelial,17,HMGB2,Epithelial cells,Epithelial cells,0.4057637,expected
+proliferating_epithelial_vs_other_epithelial,18,HMGB3,Epithelial cells,Epithelial cells,0.8452219,expected
+proliferating_epithelial_vs_other_epithelial,19,TUBA1B,Epithelial cells,Myeloid cells,1.7778149,off_target
+proliferating_epithelial_vs_other_epithelial,20,H2AFY,Epithelial cells,Myeloid cells,1.0782311,off_target
+proliferating_epithelial_vs_other_epithelial,21,SIVA1,Epithelial cells,Epithelial cells,0.9452421,expected
+proliferating_epithelial_vs_other_epithelial,22,MYBL2,Epithelial cells,Epithelial cells,0.08387883,expected
+proliferating_epithelial_vs_other_epithelial,23,CENPX,Epithelial cells,,,missing
+proliferating_epithelial_vs_other_epithelial,24,ECI1,Epithelial cells,Epithelial cells,0.47025806,expected
+proliferating_epithelial_vs_other_epithelial,25,RPL39L,Epithelial cells,Epithelial cells,0.294127,expected
+proliferating_epithelial_vs_other_epithelial,26,JPT1,Epithelial cells,,,missing
+proliferating_epithelial_vs_other_epithelial,27,NUSAP1,Epithelial cells,Epithelial cells,0.09485314,expected
+proliferating_epithelial_vs_other_epithelial,28,TMEM106C,Epithelial cells,Epithelial cells,0.46523747,expected
+proliferating_epithelial_vs_other_epithelial,29,HMGN2,Epithelial cells,Myeloid cells,1.2616092,off_target
+proliferating_epithelial_vs_other_epithelial,30,DUT,Epithelial cells,Epithelial cells,0.6444322,expected
+spp1_macrophage_vs_other_macrophage,1,SPP1,Myeloid cells,Myeloid cells,0.93069005,expected
+spp1_macrophage_vs_other_macrophage,2,CHI3L1,Myeloid cells,Epithelial cells,0.30674732,off_target
+spp1_macrophage_vs_other_macrophage,3,CHIT1,Myeloid cells,Myeloid cells,0.050692867,expected
+spp1_macrophage_vs_other_macrophage,4,OTOA,Myeloid cells,Myeloid cells,0.15722148,expected
+spp1_macrophage_vs_other_macrophage,5,HAMP,Myeloid cells,Myeloid cells,0.098566145,expected
+spp1_macrophage_vs_other_macrophage,6,HBB,Myeloid cells,Myeloid cells,0.14002965,expected
+spp1_macrophage_vs_other_macrophage,7,NCS1,Myeloid cells,Epithelial cells,0.04665847,off_target
+spp1_macrophage_vs_other_macrophage,8,CTSK,Myeloid cells,Fibroblasts,0.89046305,off_target
+spp1_macrophage_vs_other_macrophage,9,PLA2G7,Myeloid cells,Myeloid cells,0.23776612,expected
+spp1_macrophage_vs_other_macrophage,10,CD9,Myeloid cells,Epithelial cells,1.5401087,off_target
+spp1_macrophage_vs_other_macrophage,11,ADAMDEC1,Myeloid cells,Myeloid cells,0.07800059,expected
+spp1_macrophage_vs_other_macrophage,12,SDS,Myeloid cells,Myeloid cells,0.17012922,expected
+spp1_macrophage_vs_other_macrophage,13,FABP3,Myeloid cells,Myeloid cells,0.16065583,expected
+spp1_macrophage_vs_other_macrophage,14,MATK,Myeloid cells,,0.16143781,off_target
+spp1_macrophage_vs_other_macrophage,15,RARRES1,Myeloid cells,Fibroblasts,0.86616117,off_target
+spp1_macrophage_vs_other_macrophage,16,SDC2,Myeloid cells,Fibroblasts,0.4649013,off_target
+spp1_macrophage_vs_other_macrophage,17,GSDME,Myeloid cells,,,missing
+spp1_macrophage_vs_other_macrophage,18,CHCHD6,Myeloid cells,Epithelial cells,0.18191883,off_target
+spp1_macrophage_vs_other_macrophage,19,TREM2,Myeloid cells,Myeloid cells,0.76335996,expected
+spp1_macrophage_vs_other_macrophage,20,RAB42,Myeloid cells,Myeloid cells,0.13688825,expected
+spp1_macrophage_vs_other_macrophage,21,ATP6V0D2,Myeloid cells,Myeloid cells,0.0644246,expected
+spp1_macrophage_vs_other_macrophage,22,SNCA,Myeloid cells,Endothelial cells,0.12761287,off_target
+spp1_macrophage_vs_other_macrophage,23,CST6,Myeloid cells,Epithelial cells,0.5942903,off_target
+spp1_macrophage_vs_other_macrophage,24,CAMK1,Myeloid cells,Myeloid cells,0.19337262,expected
+spp1_macrophage_vs_other_macrophage,25,RAMP1,Myeloid cells,Epithelial cells,0.59084296,off_target
+spp1_macrophage_vs_other_macrophage,26,EEPD1,Myeloid cells,Myeloid cells,0.07803874,expected
+spp1_macrophage_vs_other_macrophage,27,OCIAD2,Myeloid cells,Epithelial cells,1.4588826,off_target
+spp1_macrophage_vs_other_macrophage,28,WFDC2,Myeloid cells,Epithelial cells,1.9827259,off_target
+spp1_macrophage_vs_other_macrophage,29,TNS1,Myeloid cells,Fibroblasts,0.28062406,off_target
+spp1_macrophage_vs_other_macrophage,30,DEXI,Myeloid cells,Epithelial cells,0.21928017,off_target
+c1q_macrophage_vs_other_macrophage,1,RBP4,Myeloid cells,Myeloid cells,0.25028056,expected
+c1q_macrophage_vs_other_macrophage,2,NUPR1,Myeloid cells,Fibroblasts,1.4627814,off_target
+c1q_macrophage_vs_other_macrophage,3,FABP4,Myeloid cells,Myeloid cells,0.95056266,expected
+c1q_macrophage_vs_other_macrophage,4,MARCO,Myeloid cells,Myeloid cells,1.3174621,expected
+c1q_macrophage_vs_other_macrophage,5,CYP27A1,Myeloid cells,Myeloid cells,0.63567376,expected
+c1q_macrophage_vs_other_macrophage,6,LPL,Myeloid cells,Myeloid cells,0.36004537,expected
+c1q_macrophage_vs_other_macrophage,7,SERPING1,Myeloid cells,Fibroblasts,1.7759192,off_target
+c1q_macrophage_vs_other_macrophage,8,PCOLCE2,Myeloid cells,Fibroblasts,0.310426,off_target
+c1q_macrophage_vs_other_macrophage,9,SCD,Myeloid cells,Epithelial cells,0.4905646,off_target
+c1q_macrophage_vs_other_macrophage,10,ACP5,Myeloid cells,Myeloid cells,1.2966514,expected
+c1q_macrophage_vs_other_macrophage,11,GCHFR,Myeloid cells,Myeloid cells,1.0807908,expected
+c1q_macrophage_vs_other_macrophage,12,APOC1,Myeloid cells,Myeloid cells,2.4768496,expected
+c1q_macrophage_vs_other_macrophage,13,GPD1,Myeloid cells,Myeloid cells,0.20277973,expected
+c1q_macrophage_vs_other_macrophage,14,TGM2,Myeloid cells,Fibroblasts,0.6522522,off_target
+c1q_macrophage_vs_other_macrophage,15,PPARG,Myeloid cells,Myeloid cells,0.3542847,expected
+c1q_macrophage_vs_other_macrophage,16,LGALS3BP,Myeloid cells,Fibroblasts,1.1778675,off_target
+c1q_macrophage_vs_other_macrophage,17,PHLDA3,Myeloid cells,Epithelial cells,0.45355678,off_target
+c1q_macrophage_vs_other_macrophage,18,APOE,Myeloid cells,Myeloid cells,2.151701,expected
+c1q_macrophage_vs_other_macrophage,19,CPE,Myeloid cells,Fibroblasts,0.76612425,off_target
+c1q_macrophage_vs_other_macrophage,20,MCEMP1,Myeloid cells,Myeloid cells,0.9324925,expected
+c1q_macrophage_vs_other_macrophage,21,FAM89A,Myeloid cells,Myeloid cells,0.1842524,expected
+c1q_macrophage_vs_other_macrophage,22,GLDN,Myeloid cells,Myeloid cells,0.18992928,expected
+c1q_macrophage_vs_other_macrophage,23,INHBA,Myeloid cells,Myeloid cells,0.49756983,expected
+c1q_macrophage_vs_other_macrophage,24,MLPH,Myeloid cells,Epithelial cells,0.56567824,off_target
+c1q_macrophage_vs_other_macrophage,25,LTA4H,Myeloid cells,Myeloid cells,0.8483419,expected
+c1q_macrophage_vs_other_macrophage,26,MME,Myeloid cells,Myeloid cells,0.17056635,expected
+c1q_macrophage_vs_other_macrophage,27,C1QB,Myeloid cells,Myeloid cells,2.325552,expected
+c1q_macrophage_vs_other_macrophage,28,SLC19A3,Myeloid cells,Myeloid cells,0.057929654,expected
+c1q_macrophage_vs_other_macrophage,29,PPIC,Myeloid cells,Fibroblasts,0.77459294,off_target
+c1q_macrophage_vs_other_macrophage,30,IFI6,Myeloid cells,Myeloid cells,1.265196,expected
+inflammatory_macrophage_vs_other_macrophage,1,IL1B,Myeloid cells,Myeloid cells,0.99897325,expected
+inflammatory_macrophage_vs_other_macrophage,2,CCL3L1,Myeloid cells,,,missing
+inflammatory_macrophage_vs_other_macrophage,3,CCL3,Myeloid cells,Myeloid cells,1.4867747,expected
+inflammatory_macrophage_vs_other_macrophage,4,G0S2,Myeloid cells,Myeloid cells,0.7527943,expected
+inflammatory_macrophage_vs_other_macrophage,5,GPR183,Myeloid cells,Myeloid cells,0.66715616,expected
+inflammatory_macrophage_vs_other_macrophage,6,CCL17,Myeloid cells,Myeloid cells,0.069146805,expected
+inflammatory_macrophage_vs_other_macrophage,7,NLRP3,Myeloid cells,Myeloid cells,0.14769883,expected
+inflammatory_macrophage_vs_other_macrophage,8,SERPINB9,Myeloid cells,Myeloid cells,0.20996699,expected
+inflammatory_macrophage_vs_other_macrophage,9,PTGS2,Myeloid cells,Epithelial cells,0.3680271,off_target
+inflammatory_macrophage_vs_other_macrophage,10,CCL4L2,Myeloid cells,Myeloid cells,0.9202561,expected
+inflammatory_macrophage_vs_other_macrophage,11,CD1C,Myeloid cells,Myeloid cells,0.12504673,expected
+inflammatory_macrophage_vs_other_macrophage,12,GRASP,Myeloid cells,Endothelial cells,0.101294816,off_target
+inflammatory_macrophage_vs_other_macrophage,13,RGS1,Myeloid cells,MAST cells,1.5129392,off_target
+inflammatory_macrophage_vs_other_macrophage,14,CXCL8,Myeloid cells,Myeloid cells,1.6860651,expected
+inflammatory_macrophage_vs_other_macrophage,15,PMAIP1,Myeloid cells,Epithelial cells,0.45700526,off_target
+inflammatory_macrophage_vs_other_macrophage,16,IER3,Myeloid cells,Fibroblasts,1.0767578,off_target
+inflammatory_macrophage_vs_other_macrophage,17,CLEC10A,Myeloid cells,Myeloid cells,0.26895505,expected
+inflammatory_macrophage_vs_other_macrophage,18,ICAM1,Myeloid cells,Epithelial cells,0.65293235,off_target
+inflammatory_macrophage_vs_other_macrophage,19,EREG,Myeloid cells,Myeloid cells,0.3888157,expected
+inflammatory_macrophage_vs_other_macrophage,20,DUSP2,Myeloid cells,,0.5383423,off_target
+inflammatory_macrophage_vs_other_macrophage,21,TNF,Myeloid cells,Myeloid cells,0.30795887,expected
+inflammatory_macrophage_vs_other_macrophage,22,PPIF,Myeloid cells,Myeloid cells,0.38030204,expected
+inflammatory_macrophage_vs_other_macrophage,23,CORO1A,Myeloid cells,T/NK cells,1.0939955,off_target
+inflammatory_macrophage_vs_other_macrophage,24,PDE4B,Myeloid cells,Myeloid cells,0.24616596,expected
+inflammatory_macrophage_vs_other_macrophage,25,CCL4,Myeloid cells,Myeloid cells,1.1056839,expected
+inflammatory_macrophage_vs_other_macrophage,26,LGALS2,Myeloid cells,Myeloid cells,0.2676092,expected
+inflammatory_macrophage_vs_other_macrophage,27,MIR155HG,Myeloid cells,Myeloid cells,0.13072799,expected
+inflammatory_macrophage_vs_other_macrophage,28,PRDM1,Myeloid cells,Myeloid cells,0.15020135,expected
+inflammatory_macrophage_vs_other_macrophage,29,VEGFA,Myeloid cells,Epithelial cells,0.59833443,off_target
+inflammatory_macrophage_vs_other_macrophage,30,ARL5B,Myeloid cells,Epithelial cells,0.19523574,off_target
+resident_macrophage_vs_other_macrophage,1,FCN1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,2,VCAN,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,3,AZU1,Myeloid cells,Myeloid cells,0.02729267,expected
+resident_macrophage_vs_other_macrophage,4,ELANE,Myeloid cells,Fibroblasts,0.038142174,off_target
+resident_macrophage_vs_other_macrophage,5,GLT1D1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,6,HGF,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,7,FAAH,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,8,PCAT18,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,9,CDA,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,10,AC020656.1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,11,NLRP12,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,12,CECR2,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,13,AC027031.2,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,14,LINC02207,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,15,P2RY8,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,16,S100A8,Myeloid cells,Myeloid cells,1.2817672,expected
+resident_macrophage_vs_other_macrophage,17,NFE2,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,18,C16orf74,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,19,ERLIN1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,20,SLC24A4,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,21,PLPPR3,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,22,RAB3D,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,23,MT1H,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,24,MARC1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,25,FOLR2,Myeloid cells,Myeloid cells,0.27094576,expected
+resident_macrophage_vs_other_macrophage,26,KBTBD11,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,27,AL391807.1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,28,CACNA2D3,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,29,NCAM1,Myeloid cells,,,missing
+resident_macrophage_vs_other_macrophage,30,AL034397.3,Myeloid cells,,,missing

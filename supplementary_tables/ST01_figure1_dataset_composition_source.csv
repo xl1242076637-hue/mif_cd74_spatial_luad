@@ -1,0 +1,8 @@
+﻿series_accession,Normal,AAH,AIS,MIA,LUAD,IAC,Adjacent,Tumor,Primary tumor,Metastasis/effusion,Normal lymph node,LUSC,n_samples,n_progression_samples,modality,role,analysis_use,data_extent
+GSE307534,1,11,14,4,26,0,0,0,0,0,0,0,56,56,Visium spatial,main spatial progression,axis localization and perturbation,56 tissue sections
+GSE308103,24,9,14,4,24,0,0,0,0,0,0,0,75,75,snRNA-seq,main single-nucleus progression,cell-state trajectory support,75 samples
+GSE131907,11,0,0,0,0,0,0,0,15,22,10,0,58,0,scRNA-seq reference,specificity audit,cell-type specificity filtering,"208,506 cells"
+GSE282617,5,0,20,17,0,23,0,0,0,0,0,5,70,65,bulk RNA-seq,bulk progression trend,marker trend support,70 samples
+GSE189357,0,0,3,3,0,3,0,0,0,0,0,0,9,9,scRNA-seq,small discovery context,initial state refinement,9 samples
+GSE189487,0,0,2,2,0,2,0,0,0,0,0,0,6,6,Visium spatial,small spatial context,pilot niche robustness,6 sections
+GSE164789,0,0,0,0,0,0,39,39,0,0,0,0,78,0,scRNA-seq,tumor-adjacent validation,tumor-adjacent immune-state contrast,62 expression matrices
