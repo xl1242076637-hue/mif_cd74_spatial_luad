@@ -1,0 +1,13 @@
+﻿stage,signature,n_samples,mean_score,sd_score
+LUAD,c1q_macrophage,1,0.048683531527727385,
+LUAD,epithelial_progenitor_like,1,0.2903637162111084,
+LUAD,inflammatory_macrophage,1,0.016823278137744924,
+LUAD,proliferating_epithelial,1,0.2491336339323367,
+LUAD,resident_macrophage,1,0.01171948915008238,
+LUAD,spp1_macrophage,1,0.019388760036148246,
+MIA,c1q_macrophage,1,0.007412768036630661,
+MIA,epithelial_progenitor_like,1,0.20649616371822332,
+MIA,inflammatory_macrophage,1,0.004861458902307422,
+MIA,proliferating_epithelial,1,0.18808868224688305,
+MIA,resident_macrophage,1,0.0016081583915521416,
+MIA,spp1_macrophage,1,0.0037151736883770593,

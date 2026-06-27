@@ -1,0 +1,13 @@
+﻿stage,macrophage_state,n_samples,mean_fraction,sd_fraction,total_cells
+AIS,ambiguous_macrophage,1,0.07302231237322515,,36
+AIS,c1q_macrophage,1,0.3488843813387424,,172
+AIS,inflammatory_macrophage,1,0.1643002028397566,,81
+AIS,other_macrophage,1,0.02028397565922921,,10
+AIS,resident_macrophage,1,0.12170385395537525,,60
+AIS,spp1_macrophage,1,0.2718052738336714,,134
+Normal,ambiguous_macrophage,1,0.0891891891891892,,33
+Normal,c1q_macrophage,1,0.46756756756756757,,173
+Normal,inflammatory_macrophage,1,0.12972972972972974,,48
+Normal,other_macrophage,1,0.01891891891891892,,7
+Normal,resident_macrophage,1,0.10540540540540541,,39
+Normal,spp1_macrophage,1,0.1891891891891892,,70

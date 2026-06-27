@@ -1,0 +1,13 @@
+﻿sample,sample_name,stage,macrophage_state,n_cells,denominator,fraction
+GSM9237901,P3_Normal,Normal,ambiguous_macrophage,33,370,0.0891891891891892
+GSM9237901,P3_Normal,Normal,c1q_macrophage,173,370,0.46756756756756757
+GSM9237901,P3_Normal,Normal,inflammatory_macrophage,48,370,0.12972972972972974
+GSM9237901,P3_Normal,Normal,other_macrophage,7,370,0.01891891891891892
+GSM9237901,P3_Normal,Normal,resident_macrophage,39,370,0.10540540540540541
+GSM9237901,P3_Normal,Normal,spp1_macrophage,70,370,0.1891891891891892
+GSM9237902,P3_AIS,AIS,ambiguous_macrophage,36,493,0.07302231237322515
+GSM9237902,P3_AIS,AIS,c1q_macrophage,172,493,0.3488843813387424
+GSM9237902,P3_AIS,AIS,inflammatory_macrophage,81,493,0.1643002028397566
+GSM9237902,P3_AIS,AIS,other_macrophage,10,493,0.02028397565922921
+GSM9237902,P3_AIS,AIS,resident_macrophage,60,493,0.12170385395537525
+GSM9237902,P3_AIS,AIS,spp1_macrophage,134,493,0.2718052738336714

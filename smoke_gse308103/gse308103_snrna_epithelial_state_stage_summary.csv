@@ -1,0 +1,9 @@
+﻿stage,epithelial_state,n_samples,mean_fraction,sd_fraction,total_cells
+AIS,at2_mature_like,1,0.24777183600713013,,417
+AIS,other_epithelial,1,0.5252525252525253,,884
+AIS,progenitor_like,1,0.21865715983363043,,368
+AIS,proliferating_epithelial,1,0.008318478906714201,,14
+Normal,at2_mature_like,1,0.24938875305623473,,102
+Normal,other_epithelial,1,0.5403422982885085,,221
+Normal,progenitor_like,1,0.20293398533007334,,83
+Normal,proliferating_epithelial,1,0.007334963325183374,,3

@@ -1,0 +1,9 @@
+﻿sample,sample_name,stage,epithelial_state,n_cells,denominator,fraction
+GSM9237901,P3_Normal,Normal,at2_mature_like,102,409,0.24938875305623473
+GSM9237901,P3_Normal,Normal,other_epithelial,221,409,0.5403422982885085
+GSM9237901,P3_Normal,Normal,progenitor_like,83,409,0.20293398533007334
+GSM9237901,P3_Normal,Normal,proliferating_epithelial,3,409,0.007334963325183374
+GSM9237902,P3_AIS,AIS,at2_mature_like,417,1683,0.24777183600713013
+GSM9237902,P3_AIS,AIS,other_epithelial,884,1683,0.5252525252525253
+GSM9237902,P3_AIS,AIS,progenitor_like,368,1683,0.21865715983363043
+GSM9237902,P3_AIS,AIS,proliferating_epithelial,14,1683,0.008318478906714201

@@ -1,0 +1,3 @@
+﻿broad_class,stages,n_cells,n_input_genes,n_network_genes,n_edges,tested_targets,missing_targets
+epithelial,"LUAD,MIA",1000,116,115,3848,MIF,
+macrophage,"LUAD,MIA",1000,116,116,4438,"CD74,CD44,CXCR4,SPP1,TREM2,PLA2G7",
