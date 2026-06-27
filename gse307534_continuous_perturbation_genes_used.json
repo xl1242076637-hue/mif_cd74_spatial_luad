@@ -1,0 +1,4920 @@
+{
+  "genes_used_by_sample": {
+    "GSM9226190": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226189": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226191": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226192": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226193": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226194": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226196": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226195": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226197": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226198": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226200": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226199": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226201": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226202": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226203": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226204": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226206": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226205": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226207": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226208": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226168": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226169": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226209": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226210": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226211": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226212": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226213": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226214": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226215": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226216": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226217": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226218": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226219": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226220": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226221": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226222": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226223": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226170": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226171": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226172": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226173": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226175": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226176": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226177": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226174": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226178": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226179": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226180": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226181": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226182": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226183": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226184": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226185": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226186": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226187": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    },
+    "GSM9226188": {
+      "epithelial_progenitor_like": [
+        "KRT7",
+        "TACSTD2",
+        "CLDN3",
+        "KRT19",
+        "KRT8",
+        "CLDN4",
+        "GDF15",
+        "TNFRSF12A",
+        "ANXA3",
+        "CLDN7",
+        "EPCAM",
+        "CD24",
+        "EMP2",
+        "ANXA2",
+        "MDK",
+        "SPINT1",
+        "PERP",
+        "IFT57",
+        "PLPP2",
+        "CST6",
+        "SOX4",
+        "RND3",
+        "CYP4B1",
+        "RAB11FIP1"
+      ],
+      "spp1_trem2_macrophage_epithelial_source": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7",
+        "CHIT1",
+        "APOE",
+        "LGALS3"
+      ],
+      "spp1_trem2_macrophage_epithelial_target": [
+        "CD44",
+        "ITGAV",
+        "ITGB1",
+        "ITGA5"
+      ],
+      "inflammatory_il1_tnf_cxcl8_source": [
+        "IL1B",
+        "TNF",
+        "CXCL8",
+        "CCL3",
+        "CCL4",
+        "NLRP3"
+      ],
+      "inflammatory_il1_tnf_cxcl8_target": [
+        "IL1R1",
+        "IL1RAP",
+        "NFKBIA"
+      ],
+      "c1q_apoe_trem2_lgals3_source": [
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "APOE",
+        "TREM2",
+        "LGALS3",
+        "MARCO"
+      ],
+      "c1q_apoe_trem2_lgals3_target": [
+        "LRP1",
+        "TREM2",
+        "CD44"
+      ],
+      "mif_cd74_cxcr4_source": [
+        "MIF"
+      ],
+      "mif_cd74_cxcr4_target": [
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "cxcl9_cxcl10_cxcr3_source": [
+        "CXCL9",
+        "CXCL10"
+      ],
+      "cxcl9_cxcl10_cxcr3_target": [
+        "CXCR3"
+      ]
+    }
+  },
+  "perturbation_specs": [
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_SPP1_x0",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "SPP1"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_SPP1_x0p5",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "SPP1"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_TREM2_x0",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "TREM2"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_TREM2_x0p5",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "TREM2"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_PLA2G7_x0",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "PLA2G7"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_gene_PLA2G7_x0p5",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "gene",
+      "genes": [
+        "PLA2G7"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_axis_SPP1_TREM2_PLA2G7_x0",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "axis",
+      "genes": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "spp1_trem2_macrophage_epithelial_axis_SPP1_TREM2_PLA2G7_x0p5",
+      "axis_id": "spp1_trem2_macrophage_epithelial",
+      "axis_label": "SPP1/TREM2 macrophage program to epithelial-matrix receptors",
+      "perturbation_type": "axis",
+      "genes": [
+        "SPP1",
+        "TREM2",
+        "PLA2G7"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "c1q_apoe_trem2_lgals3_gene_TREM2_x0",
+      "axis_id": "c1q_apoe_trem2_lgals3",
+      "axis_label": "C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program",
+      "perturbation_type": "gene",
+      "genes": [
+        "TREM2"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "c1q_apoe_trem2_lgals3_gene_TREM2_x0p5",
+      "axis_id": "c1q_apoe_trem2_lgals3",
+      "axis_label": "C1Q/APOE/TREM2/LGALS3 immunoregulatory macrophage program",
+      "perturbation_type": "gene",
+      "genes": [
+        "TREM2"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_MIF_x0",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "MIF"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_MIF_x0p5",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "MIF"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CD74_x0",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CD74"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CD74_x0p5",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CD74"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CXCR4_x0",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CXCR4"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CXCR4_x0p5",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CXCR4"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CD44_x0",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CD44"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_gene_CD44_x0p5",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "gene",
+      "genes": [
+        "CD44"
+      ],
+      "factor": 0.5
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_axis_MIF_CD74_CXCR4_CD44_x0",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "axis",
+      "genes": [
+        "MIF",
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "factor": 0.0
+    },
+    {
+      "perturbation_id": "mif_cd74_cxcr4_axis_MIF_CD74_CXCR4_CD44_x0p5",
+      "axis_id": "mif_cd74_cxcr4",
+      "axis_label": "MIF-CD74/CXCR4 stress-immunoregulatory axis",
+      "perturbation_type": "axis",
+      "genes": [
+        "MIF",
+        "CD74",
+        "CXCR4",
+        "CD44"
+      ],
+      "factor": 0.5
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+x,y,n,spearman_r,spearman_p,analysis_level
+enrichment_delta,n_spots,56,0.12235342369222675,0.3690043930597877,sample
+enrichment_delta,null_mean,56,0.3524265208475735,0.00772410073607136,sample
+enrichment_delta,radius,56,-0.10671514892867787,0.4337382965135065,sample
+enrichment_delta_change,n_spots_change,20,-0.30977443609022554,0.18380643241191041,paired_patient_change

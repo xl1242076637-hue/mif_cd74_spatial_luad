@@ -1,0 +1,31 @@
+﻿signature,display_rank,rank,gene,expected_celltype,top_celltype,specificity_status,specificity_label,status_order,retained_after_audit,retained_label
+spp1_macrophage_vs_other_macrophage,1,1,SPP1,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,2,2,CHI3L1,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,3,3,CHIT1,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,4,4,OTOA,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,5,5,HAMP,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,6,6,HBB,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,7,7,NCS1,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,8,8,CTSK,Myeloid cells,Fibroblasts,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,9,9,PLA2G7,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,10,10,CD9,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,11,11,ADAMDEC1,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,12,12,SDS,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,13,13,FABP3,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,14,14,MATK,Myeloid cells,Missing in reference,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,15,15,RARRES1,Myeloid cells,Fibroblasts,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,16,16,SDC2,Myeloid cells,Fibroblasts,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,17,17,GSDME,Myeloid cells,Missing in reference,missing,Missing,2,False,Removed
+spp1_macrophage_vs_other_macrophage,18,18,CHCHD6,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,19,19,TREM2,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,20,20,RAB42,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,21,21,ATP6V0D2,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,22,22,SNCA,Myeloid cells,Endothelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,23,23,CST6,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,24,24,CAMK1,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,25,25,RAMP1,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,26,26,EEPD1,Myeloid cells,Myeloid cells,expected,Expected myeloid,0,True,Retained
+spp1_macrophage_vs_other_macrophage,27,27,OCIAD2,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,28,28,WFDC2,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,29,29,TNS1,Myeloid cells,Fibroblasts,off_target,Off-target,1,False,Removed
+spp1_macrophage_vs_other_macrophage,30,30,DEXI,Myeloid cells,Epithelial cells,off_target,Off-target,1,False,Removed

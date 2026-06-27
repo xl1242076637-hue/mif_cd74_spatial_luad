@@ -1,0 +1,2 @@
+﻿observed_fraction,null_mean,null_sd,empirical_p_greater,n_permutations,radius,sample,source,target,quantile,n_spots,n_dropped_nonfinite_coordinates,n_source_high,n_target_high,n_overlap_high,overlap_fraction_of_source,target_to_source_fraction
+0.905448717948718,0.9829407051282051,0.004974340514112621,1.0,500,400.0,GSM5702474,epithelial_progenitor_high,macrophage_niche_high,0.75,4991,1,1248,1248,197,0.1578525641025641,0.7948717948717948

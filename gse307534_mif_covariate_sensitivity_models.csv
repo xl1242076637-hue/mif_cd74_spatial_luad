@@ -1,0 +1,9 @@
+﻿model_id,outcome,effect,covariates,n_observations,n_covariates,residual_df,effect_estimate,effect_se,effect_t,effect_p
+sample_unadjusted,enrichment_delta,late_indicator,none,55,0,53,0.13327795038868587,0.02796108905057339,4.766550764443589,1.5015727888095766e-05
+sample_adjusted_n_spots,enrichment_delta,late_indicator,n_spots,55,1,52,0.13555647892426465,0.028109985944679134,4.822360252724487,1.2780050233189481e-05
+sample_adjusted_n_spots_null_mean,enrichment_delta,late_indicator,"n_spots,null_mean",55,2,51,0.12402932751426082,0.029902905354069143,4.1477350125573365,0.00012717240963910513
+sample_adjusted_full_geometry,enrichment_delta,late_indicator,"n_spots,null_mean,radius",55,3,50,0.12373065728526862,0.030186131443349595,4.098923955110787,0.00015224311530633952
+paired_change_unadjusted,enrichment_delta_change,intercept,none,20,0,19,0.14050055323632682,0.024573339501539504,5.717601111054709,1.6433025261869297e-05
+paired_change_adjusted_n_spots,enrichment_delta_change,intercept,n_spots_change,20,1,18,0.14050055323632682,0.023437771720430937,5.994620773349845,1.1394838125121005e-05
+paired_change_adjusted_n_spots_null_mean,enrichment_delta_change,intercept,"n_spots_change,null_mean_change",20,2,17,0.14050055323632682,0.022278750198548622,6.306482723859434,7.888272718245628e-06
+paired_change_adjusted_full_geometry,enrichment_delta_change,intercept,"n_spots_change,null_mean_change,radius_change",20,3,16,0.14050055323632682,0.02289065783531242,6.1378993232594095,1.42909634383877e-05

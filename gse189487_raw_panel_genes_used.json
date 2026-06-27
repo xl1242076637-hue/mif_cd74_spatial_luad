@@ -1,0 +1,296 @@
+{
+  "GSM5702473": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  },
+  "GSM5702474": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  },
+  "GSM5702475": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  },
+  "GSM5702476": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  },
+  "GSM5702477": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  },
+  "GSM5702478": {
+    "epithelial_progenitor": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "SFTPC",
+      "MUC1"
+    ],
+    "proliferation_emt": [
+      "MKI67",
+      "TOP2A",
+      "PCNA",
+      "VIM",
+      "SNAI2",
+      "ZEB1",
+      "S100A4",
+      "SRGN"
+    ],
+    "macrophage_niche": [
+      "CD68",
+      "CD163",
+      "LST1",
+      "IL1B",
+      "IL1R1",
+      "SPP1",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SELENOP"
+    ],
+    "ligand_receptor_axes": [
+      "TGFB1",
+      "TGFB2",
+      "TGFBR1",
+      "TGFBR2",
+      "CXCL8",
+      "CXCR1",
+      "CXCR2",
+      "CCL2",
+      "CCR2",
+      "CD44",
+      "ITGA4",
+      "ITGAV",
+      "ITGB1"
+    ]
+  }
+}

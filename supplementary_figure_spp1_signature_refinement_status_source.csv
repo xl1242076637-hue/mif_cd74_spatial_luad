@@ -1,0 +1,4 @@
+﻿specificity_status,specificity_label,original_n,retained_n,removed_n,original_fraction,retained_fraction
+expected,Expected myeloid,14,14,0,0.4666666666666667,1.0
+off_target,Off-target,15,0,15,0.5,0.0
+missing,Missing,1,0,1,0.03333333333333333,0.0

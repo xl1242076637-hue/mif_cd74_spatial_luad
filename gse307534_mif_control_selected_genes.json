@@ -1,0 +1,25 @@
+{
+  "target_gene": "MIF",
+  "matched_control_genes": [
+    "PRKDC",
+    "PHACTR2",
+    "RMND5A",
+    "CKB",
+    "KIF13B",
+    "NR2F2",
+    "LIFR",
+    "CITED2",
+    "DDX46",
+    "PPM1A",
+    "UXT",
+    "SETD3",
+    "TRIM27",
+    "DERL1",
+    "MS4A7",
+    "PHF10",
+    "RAB1B",
+    "PRDX1",
+    "SPRY2",
+    "BSG"
+  ]
+}

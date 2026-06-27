@@ -1,0 +1,37 @@
+{
+  "method": "parameter/subsampling robustness for scTenifoldKnk-inspired outgoing-edge virtual perturbation",
+  "stages": [
+    "LUAD",
+    "MIA"
+  ],
+  "classes": [
+    "epithelial",
+    "macrophage"
+  ],
+  "thresholds": [
+    0.03,
+    0.05,
+    0.08
+  ],
+  "random_seeds": [
+    7,
+    11,
+    23
+  ],
+  "max_cells_per_class": 6000,
+  "n_steps": 3,
+  "restart": 0.15,
+  "decay": 0.5,
+  "signature_classes": {
+    "epithelial": [
+      "epithelial_progenitor_like_vs_other_epithelial",
+      "proliferating_epithelial_vs_other_epithelial"
+    ],
+    "macrophage": [
+      "spp1_macrophage_vs_other_macrophage",
+      "c1q_macrophage_vs_other_macrophage",
+      "inflammatory_macrophage_vs_other_macrophage",
+      "resident_macrophage_vs_other_macrophage"
+    ]
+  }
+}

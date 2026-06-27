@@ -1,0 +1,8 @@
+﻿display_rank,broad_class,class_label,target_gene,top_impacted_signature,signature_label,top_signature_mean_impact,top_signature_max_impact,top_signature_sum_impact,top_impacted_genes
+1,macrophage,Macrophage,CD44,c1q_macrophage_vs_other_macrophage,C1Q macrophage,0.0177356961710329,0.0257895961320081,0.3547139234206595,"MARCO,MCEMP1,INHBA,LTA4H,PPARG"
+2,macrophage,Macrophage,TREM2,c1q_macrophage_vs_other_macrophage,C1Q macrophage,0.0177259273935307,0.0316131419055003,0.3545185478706158,"APOE,APOC1,ACP5,CYP27A1,LGALS3"
+3,macrophage,Macrophage,PLA2G7,spp1_macrophage_vs_other_macrophage,SPP1 macrophage,0.0164963542969632,0.0318343149330049,0.1979562515635584,"APOE,ACP5,APOC1,CHIT1,CYP27A1"
+4,macrophage,Macrophage,CD74,c1q_macrophage_vs_other_macrophage,C1Q macrophage,0.0150843272277374,0.0383532721478288,0.3016865445547499,"C1QA,C1QB,C1QC,APOE,ACP5"
+5,epithelial,Epithelial,MIF,proliferating_epithelial_vs_other_epithelial,Proliferating epi,0.0124723133500809,0.0190711992155425,0.2494462670016193,"MDK,EPCAM,KRT8,CD24,PERP"
+6,macrophage,Macrophage,CXCR4,spp1_macrophage_vs_other_macrophage,SPP1 macrophage,0.0121012852840514,0.0391559936694093,0.1573167086926691,"PRDM1,GPR183,ADAMDEC1,PLA2G7,APOE"
+7,macrophage,Macrophage,SPP1,spp1_macrophage_vs_other_macrophage,SPP1 macrophage,0.010222136628952,0.0350007922243101,0.1226656395474243,"MIF,ANXA2,TREM2,G0S2,CAMK1"
