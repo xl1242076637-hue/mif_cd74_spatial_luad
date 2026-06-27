@@ -1,0 +1,6 @@
+﻿display_rank,axis_id,axis_short_label,Spatial niche,Specificity audit,Bulk trend,snRNA program,Tumor-adjacent scRNA,Target prioritization
+1,mif_cd74_cxcr4,MIF-CD74/CXCR4,0.929266,0.833333,0.917084,0.0,0.673365,1.0
+2,spp1_trem2_macrophage_epithelial,SPP1/TREM2/PLA2G7,0.769809,0.625,0.654939,0.900332,0.0,0.17298
+3,cxcl9_cxcl10_cxcr3,CXCL9/10-CXCR3,0.200708,1.0,0.093817,0.0,0.673365,0.0
+4,c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2,0.579304,0.5,0.149969,0.776235,0.0,0.062547
+5,inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8,0.446566,0.5,0.0,0.0,0.673365,0.0

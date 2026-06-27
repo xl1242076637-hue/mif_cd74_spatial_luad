@@ -1,0 +1,7 @@
+﻿signature,signature_label,expected,off_target,missing,total_genes,expected_fraction,off_target_fraction,missing_fraction
+epithelial_progenitor_like_vs_other_epithelial,Epi progenitor,25,5,0,30,0.8333333333333334,0.16666666666666666,0.0
+proliferating_epithelial_vs_other_epithelial,Proliferating epi,23,4,3,30,0.7666666666666667,0.13333333333333333,0.1
+spp1_macrophage_vs_other_macrophage,SPP1 macrophage,14,15,1,30,0.4666666666666667,0.5,0.03333333333333333
+c1q_macrophage_vs_other_macrophage,C1Q macrophage,20,10,0,30,0.6666666666666666,0.3333333333333333,0.0
+inflammatory_macrophage_vs_other_macrophage,Inflammatory macrophage,19,10,1,30,0.6333333333333333,0.3333333333333333,0.03333333333333333
+resident_macrophage_vs_other_macrophage,Resident macrophage,3,1,26,30,0.1,0.03333333333333333,0.8666666666666667

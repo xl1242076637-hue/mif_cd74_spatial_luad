@@ -1,0 +1,21 @@
+﻿axis_id,evidence_type,stage,n_samples,n_tests,n_invalid_tests,n_valid_samples,n_valid_tests,observed_fraction_mean,null_mean_mean,enrichment_delta_mean,empirical_p_greater_median,empirical_p_less_median,axis_short_label,evidence_short,line_label
+mif_cd74_cxcr4,target_near_epithelial_progenitor,Normal,1,1,0,1,1,0.4680372630902666,0.3766174108576935,0.0914198522325731,0.0099009900990099,1.0,MIF-CD74,receptor,MIF-CD74 receptor
+mif_cd74_cxcr4,target_near_epithelial_progenitor,AAH,11,11,0,11,11,0.4864064235300887,0.4055508364010416,0.0808555871290471,0.0099009900990099,1.0,MIF-CD74,receptor,MIF-CD74 receptor
+mif_cd74_cxcr4,target_near_epithelial_progenitor,AIS,14,14,0,14,14,0.5268432101048581,0.4139833003446003,0.1128599097602578,0.0099009900990099,1.0,MIF-CD74,receptor,MIF-CD74 receptor
+mif_cd74_cxcr4,target_near_epithelial_progenitor,MIA,4,4,0,4,4,0.601061056326715,0.4177796702252506,0.1832813861014644,0.0099009900990099,1.0,MIF-CD74,receptor,MIF-CD74 receptor
+mif_cd74_cxcr4,target_near_epithelial_progenitor,LUAD,26,26,0,26,26,0.5724748473655739,0.4203481303664415,0.1521267169991323,0.0099009900990099,1.0,MIF-CD74,receptor,MIF-CD74 receptor
+mif_cd74_cxcr4,source_near_epithelial_progenitor,Normal,1,1,0,1,1,0.3257308062961773,0.2642724060391904,0.0614584002569869,0.0099009900990099,1.0,MIF-CD74,source,MIF-CD74 source
+mif_cd74_cxcr4,source_near_epithelial_progenitor,AAH,11,11,0,11,11,0.4042289455190805,0.3142264076205135,0.090002537898567,0.0099009900990099,1.0,MIF-CD74,source,MIF-CD74 source
+mif_cd74_cxcr4,source_near_epithelial_progenitor,AIS,14,14,0,14,14,0.4643370945076457,0.3350251502121988,0.1293119442954469,0.0099009900990099,1.0,MIF-CD74,source,MIF-CD74 source
+mif_cd74_cxcr4,source_near_epithelial_progenitor,MIA,4,4,0,4,4,0.4665051735151382,0.3197417791681607,0.1467633943469775,0.0099009900990099,1.0,MIF-CD74,source,MIF-CD74 source
+mif_cd74_cxcr4,source_near_epithelial_progenitor,LUAD,26,26,0,26,26,0.6634616783751591,0.4022205925528703,0.2612410858222888,0.0099009900990099,1.0,MIF-CD74,source,MIF-CD74 source
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,Normal,1,1,0,1,1,0.5001606167683906,0.3760970125281079,0.1240636042402826,0.0099009900990099,1.0,SPP1 readout,receptor,SPP1 readout receptor
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,AAH,11,11,0,11,11,0.5221674470681267,0.4056324890711966,0.11653495799693,0.0099009900990099,1.0,SPP1 readout,receptor,SPP1 readout receptor
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,AIS,14,14,0,14,14,0.5605621903920659,0.4141593525559872,0.1464028378360787,0.0099009900990099,1.0,SPP1 readout,receptor,SPP1 readout receptor
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,MIA,4,4,0,4,4,0.6033870118575664,0.4181136290468134,0.1852733828107529,0.0099009900990099,1.0,SPP1 readout,receptor,SPP1 readout receptor
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,LUAD,26,26,0,26,26,0.6258074661600398,0.4205451900741641,0.2052622760858756,0.0099009900990099,1.0,SPP1 readout,receptor,SPP1 readout receptor
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,Normal,1,1,0,1,1,0.3090266623835528,0.3754063604240282,-0.0663796980404753,1.0,0.0099009900990099,SPP1 readout,source,SPP1 readout source
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,AAH,11,11,0,11,11,0.4138893674294466,0.4053143403619316,0.008575027067515,0.4455445544554455,0.6336633663366337,SPP1 readout,source,SPP1 readout source
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,AIS,14,14,0,14,14,0.4538114319237913,0.4137548167548814,0.0400566151689098,0.0099009900990099,1.0,SPP1 readout,source,SPP1 readout source
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,MIA,4,4,0,4,4,0.5438125106245154,0.4173919808376208,0.1264205297868945,0.0099009900990099,1.0,SPP1 readout,source,SPP1 readout source
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,LUAD,26,26,0,26,26,0.5192561606630808,0.4203651272807669,0.0988910333823138,0.0099009900990099,1.0,SPP1 readout,source,SPP1 readout source

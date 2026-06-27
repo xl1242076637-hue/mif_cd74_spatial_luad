@@ -1,0 +1,11 @@
+﻿axis_id,evidence_type,mean_late_delta,n_stage_rows,n_samples,axis_short_label,axis_label,evidence_short,bar_label
+mif_cd74_cxcr4,source_near_epithelial_progenitor,0.20400224008463314,2,30,#B64342,MIF-CD74/CXCR4,source,MIF-CD74/CXCR4 source
+spp1_trem2_macrophage_epithelial,target_near_epithelial_progenitor,0.19526782944831425,2,30,#42949E,SPP1/TREM2/PLA2G7,receptor,SPP1/TREM2/PLA2G7 receptor
+mif_cd74_cxcr4,target_near_epithelial_progenitor,0.16770405155029836,2,30,#B64342,MIF-CD74/CXCR4,receptor,MIF-CD74/CXCR4 receptor
+c1q_apoe_trem2_lgals3,target_near_epithelial_progenitor,0.16077393245000027,2,30,#7BAA5B,C1Q/APOE/TREM2,receptor,C1Q/APOE/TREM2 receptor
+inflammatory_il1_tnf_cxcl8,target_near_epithelial_progenitor,0.14287585678837994,2,30,#8F8F8F,IL1B/TNF/CXCL8,receptor,IL1B/TNF/CXCL8 receptor
+spp1_trem2_macrophage_epithelial,source_near_epithelial_progenitor,0.11265578158460415,2,30,#42949E,SPP1/TREM2/PLA2G7,source,SPP1/TREM2/PLA2G7 source
+c1q_apoe_trem2_lgals3,source_near_epithelial_progenitor,0.0709476723006323,2,30,#7BAA5B,C1Q/APOE/TREM2,source,C1Q/APOE/TREM2 source
+cxcl9_cxcl10_cxcr3,source_near_epithelial_progenitor,0.0548916390444472,2,30,#5B8FD6,CXCL9/10-CXCR3,source,CXCL9/10-CXCR3 source
+inflammatory_il1_tnf_cxcl8,source_near_epithelial_progenitor,0.03575068699529985,2,30,#8F8F8F,IL1B/TNF/CXCL8,source,IL1B/TNF/CXCL8 source
+cxcl9_cxcl10_cxcr3,target_near_epithelial_progenitor,0.02539174475379715,2,30,#5B8FD6,CXCL9/10-CXCR3,receptor,CXCL9/10-CXCR3 receptor

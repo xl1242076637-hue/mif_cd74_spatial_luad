@@ -1,0 +1,17 @@
+﻿gene,n_axes,max_axis_priority,mean_axis_priority,axis_ids
+CD44,1,0.788554,0.788554,mif_cd74_cxcr4
+CD74,1,0.788554,0.788554,mif_cd74_cxcr4
+CXCR4,1,0.788554,0.788554,mif_cd74_cxcr4
+MIF,1,0.788554,0.788554,mif_cd74_cxcr4
+TREM2,2,0.74775,0.675016,"c1q_apoe_trem2_lgals3,spp1_trem2_macrophage_epithelial"
+PLA2G7,1,0.74775,0.74775,spp1_trem2_macrophage_epithelial
+SPP1,1,0.74775,0.74775,spp1_trem2_macrophage_epithelial
+CXCL10,1,0.613663,0.613663,cxcl9_cxcl10_cxcr3
+CXCL9,1,0.613663,0.613663,cxcl9_cxcl10_cxcr3
+CXCR3,1,0.613663,0.613663,cxcl9_cxcl10_cxcr3
+APOE,1,0.602282,0.602282,c1q_apoe_trem2_lgals3
+LGALS3,1,0.602282,0.602282,c1q_apoe_trem2_lgals3
+CXCL8,1,0.506149,0.506149,inflammatory_il1_tnf_cxcl8
+IL1B,1,0.506149,0.506149,inflammatory_il1_tnf_cxcl8
+NLRP3,1,0.506149,0.506149,inflammatory_il1_tnf_cxcl8
+TNF,1,0.506149,0.506149,inflammatory_il1_tnf_cxcl8

@@ -1,0 +1,26 @@
+{
+  "priority_score": {
+    "spatial_score": 0.2,
+    "axis_spatial_score": 0.15,
+    "source_specificity_score": 0.17,
+    "target_specificity_score": 0.12,
+    "bulk_score": 0.13,
+    "snrna_score_component": 0.13,
+    "scrna_score_component": 0.1
+  },
+  "legacy_priority_score_without_axis_spatial": {
+    "spatial_score": 0.25,
+    "source_specificity_score": 0.2,
+    "target_specificity_score": 0.15,
+    "bulk_score": 0.15,
+    "snrna_score_component": 0.15,
+    "scrna_score_component": 0.1
+  },
+  "normalization": {
+    "spatial_score": "positive spatial MIA/LUAD mean delta divided by 0.10, clipped to 0-1",
+    "axis_spatial_score": "positive candidate-axis source/target MIA/LUAD adjacency mean delta divided by 0.20, clipped to 0-1",
+    "bulk_score": "positive mean bulk IAC-vs-normal delta divided by 20, clipped to 0-1",
+    "snrna_score_component": "positive late-vs-early score delta divided by 0.10, clipped to 0-1",
+    "scrna_score_component": "positive tumor-vs-adjacent score delta divided by 0.05, clipped to 0-1"
+  }
+}

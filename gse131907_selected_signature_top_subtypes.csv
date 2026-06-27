@@ -1,0 +1,121 @@
+﻿Sample_Origin,Cell_type.refined,Cell_subtype,score,n_cells,mean_score,median_score,sd_score
+tLung,Epithelial cells,tS2,epithelial_progenitor_like,3018,2.403854,2.397284,0.8190946
+PE,Epithelial cells,,epithelial_progenitor_like,396,2.060405,1.8890128,1.2452128
+mLN,Epithelial cells,Malignant cells,epithelial_progenitor_like,2961,1.9406726,2.124757,1.2065806
+tL/B,Epithelial cells,Malignant cells,epithelial_progenitor_like,6400,1.9024068,1.8985971,0.89625895
+mBrain,Epithelial cells,Malignant cells,epithelial_progenitor_like,15423,1.7725946,1.7350069,0.96114933
+tLung,Epithelial cells,tS1,epithelial_progenitor_like,3270,1.398876,1.4179344,0.6331753
+nLung,Epithelial cells,Club,epithelial_progenitor_like,439,1.1945182,1.1599567,0.661675
+nLung,Epithelial cells,Ciliated,epithelial_progenitor_like,654,1.1813515,1.0503318,0.71891963
+tLung,Epithelial cells,,epithelial_progenitor_like,918,1.1772871,1.1060574,0.64676946
+tL/B,Epithelial cells,,epithelial_progenitor_like,182,1.1505601,1.1173863,0.74402916
+nLung,Epithelial cells,AT2,epithelial_progenitor_like,2020,1.0330278,1.018471,0.4620505
+nLung,Epithelial cells,AT1,epithelial_progenitor_like,530,0.88115895,0.80698216,0.48144165
+mBrain,Fibroblasts,FB-like cells,epithelial_progenitor_like,200,0.27851692,0.19804205,0.22299112
+mBrain,Myeloid cells,Microglia/Mac,epithelial_progenitor_like,563,0.2539799,0.19804205,0.16996394
+mBrain,Endothelial cells,Tumor ECs,epithelial_progenitor_like,155,0.24480416,0.19804205,0.25921246
+nLung,Myeloid cells,CD141+ DCs,epithelial_progenitor_like,101,0.2310365,0.25596565,0.13491824
+mBrain,Myeloid cells,Alveolar Mac,epithelial_progenitor_like,133,0.22111015,0.19804205,0.19153377
+mBrain,Fibroblasts,Pericytes,epithelial_progenitor_like,217,0.2175324,0.15694462,0.310073
+tL/B,Myeloid cells,mo-Mac,epithelial_progenitor_like,460,0.14818145,0.099021025,0.16987434
+mBrain,B lymphocytes,Plasma cells,epithelial_progenitor_like,299,0.1462058,0.099021025,0.14223577
+tLung,Epithelial cells,tS2,refined_epithelial_progenitor_like,3018,1.627637,1.6135952,0.58415645
+PE,Epithelial cells,,refined_epithelial_progenitor_like,396,1.4333748,1.3620632,0.9205472
+mLN,Epithelial cells,Malignant cells,refined_epithelial_progenitor_like,2961,1.3524674,1.353938,0.8310604
+tL/B,Epithelial cells,Malignant cells,refined_epithelial_progenitor_like,6400,1.2126126,1.165401,0.63070697
+mBrain,Epithelial cells,Malignant cells,refined_epithelial_progenitor_like,15423,1.0502696,0.94844025,0.65443504
+nLung,Epithelial cells,Ciliated,refined_epithelial_progenitor_like,654,0.9127105,0.79789966,0.53143954
+tL/B,Epithelial cells,,refined_epithelial_progenitor_like,182,0.86090267,0.86147547,0.50645655
+tLung,Epithelial cells,tS1,refined_epithelial_progenitor_like,3270,0.81044775,0.8049494,0.38167393
+nLung,Epithelial cells,Club,refined_epithelial_progenitor_like,439,0.759028,0.73467803,0.44157606
+nLung,Epithelial cells,AT1,refined_epithelial_progenitor_like,530,0.7273788,0.6555915,0.32697695
+tLung,Epithelial cells,,refined_epithelial_progenitor_like,918,0.63892806,0.55610436,0.4151167
+mBrain,Fibroblasts,FB-like cells,refined_epithelial_progenitor_like,200,0.6125868,0.58288664,0.2630356
+mBrain,Endothelial cells,Tumor ECs,refined_epithelial_progenitor_like,155,0.47315276,0.40184787,0.30717906
+nLung,Epithelial cells,AT2,refined_epithelial_progenitor_like,2020,0.43277457,0.40063566,0.23728566
+tLung,Endothelial cells,Tumor ECs,refined_epithelial_progenitor_like,274,0.414074,0.39894533,0.19194128
+tLung,Fibroblasts,Myofibroblasts,refined_epithelial_progenitor_like,245,0.41216844,0.37711665,0.20975891
+mBrain,Fibroblasts,Pericytes,refined_epithelial_progenitor_like,217,0.3890793,0.3609249,0.25910252
+tLung,Endothelial cells,Stalk-like ECs,refined_epithelial_progenitor_like,103,0.36792675,0.3427673,0.15990411
+nLung,Endothelial cells,Stalk-like ECs,refined_epithelial_progenitor_like,322,0.3568211,0.34483638,0.15070495
+tLung,Endothelial cells,Tip-like ECs,refined_epithelial_progenitor_like,168,0.33180845,0.3125412,0.13619125
+mLN,Myeloid cells,mo-Mac,spp1_macrophage,3841,2.1284132,2.1428032,0.83145833
+tLung,Myeloid cells,mo-Mac,spp1_macrophage,4678,1.9834844,1.9707123,0.8245495
+mBrain,Myeloid cells,mo-Mac,spp1_macrophage,3942,1.7936864,1.7094243,0.976534
+nLung,Myeloid cells,Alveolar Mac,spp1_macrophage,12211,1.732678,1.7179401,0.6378051
+tLung,Myeloid cells,Alveolar Mac,spp1_macrophage,1324,1.7013357,1.7589649,0.70796525
+tL/B,Myeloid cells,mo-Mac,spp1_macrophage,460,1.6602356,1.6000695,0.7849932
+mBrain,Myeloid cells,Microglia/Mac,spp1_macrophage,563,1.5512551,1.4561394,0.687134
+nLN,Myeloid cells,Undetermined,spp1_macrophage,868,1.393683,0.75683796,1.4412572
+mBrain,Fibroblasts,FB-like cells,spp1_macrophage,200,1.2870157,1.2950864,0.55297154
+tLung,Epithelial cells,tS2,spp1_macrophage,3018,1.1156911,1.0823292,0.46473837
+mBrain,Myeloid cells,Undetermined,spp1_macrophage,445,1.1095752,1.0199733,0.6519013
+mBrain,Myeloid cells,CD163+CD14+ DCs,spp1_macrophage,177,1.0206993,0.8954674,0.6391415
+mLN,Epithelial cells,Malignant cells,spp1_macrophage,2961,0.9456687,0.79779685,0.66853416
+mBrain,Myeloid cells,Alveolar Mac,spp1_macrophage,133,0.9419976,0.8553332,0.55568254
+PE,Epithelial cells,,spp1_macrophage,396,0.93422484,0.82374793,0.65049344
+mBrain,Epithelial cells,Malignant cells,spp1_macrophage,15423,0.89917535,0.837931,0.547107
+tLung,Myeloid cells,CD163+CD14+ DCs,spp1_macrophage,660,0.8836801,0.7742402,0.5596127
+tLung,Fibroblasts,COL14A1+ matrix FBs,spp1_macrophage,390,0.88289636,0.9118225,0.39026743
+mLN,Myeloid cells,Undetermined,spp1_macrophage,545,0.795038,0.63561076,0.66465604
+mLN,Myeloid cells,CD163+CD14+ DCs,spp1_macrophage,133,0.78307086,0.5991465,0.6599696
+mLN,Epithelial cells,Malignant cells,refined_spp1_macrophage,2961,0.39099,0.40922478,0.2500149
+tLung,Epithelial cells,tS2,refined_spp1_macrophage,3018,0.3739267,0.3681124,0.15733653
+nLN,Myeloid cells,Undetermined,refined_spp1_macrophage,868,0.36281788,0.109588064,0.50758064
+mLN,Myeloid cells,mo-Mac,refined_spp1_macrophage,3841,0.34544694,0.31590173,0.18841325
+PE,Epithelial cells,,refined_spp1_macrophage,396,0.3348155,0.33742726,0.2618074
+mBrain,Fibroblasts,FB-like cells,refined_spp1_macrophage,200,0.32588825,0.31478265,0.16249694
+tLung,Myeloid cells,mo-Mac,refined_spp1_macrophage,4678,0.32546148,0.28115988,0.2234341
+mBrain,Epithelial cells,Malignant cells,refined_spp1_macrophage,15423,0.2789606,0.25077236,0.18732964
+mBrain,Myeloid cells,mo-Mac,refined_spp1_macrophage,3942,0.27822116,0.2290962,0.21522802
+tL/B,Myeloid cells,mo-Mac,refined_spp1_macrophage,460,0.27048972,0.23183078,0.17988425
+tL/B,Epithelial cells,Malignant cells,refined_spp1_macrophage,6400,0.2691292,0.24448541,0.17168146
+mBrain,Myeloid cells,Microglia/Mac,refined_spp1_macrophage,563,0.24212359,0.20728508,0.16719402
+tLung,Fibroblasts,Myofibroblasts,refined_spp1_macrophage,245,0.2419882,0.2408523,0.11506981
+tL/B,Epithelial cells,,refined_spp1_macrophage,182,0.23783053,0.22050698,0.14054514
+tLung,Fibroblasts,COL14A1+ matrix FBs,refined_spp1_macrophage,390,0.22949417,0.22323762,0.11131731
+tLung,Epithelial cells,tS1,refined_spp1_macrophage,3270,0.2226114,0.21917613,0.10798838
+tLung,Epithelial cells,,refined_spp1_macrophage,918,0.20651841,0.1952745,0.12325961
+mLN,Myeloid cells,CD163+CD14+ DCs,refined_spp1_macrophage,133,0.19745553,0.15739132,0.14570399
+nLung,Epithelial cells,Ciliated,refined_spp1_macrophage,654,0.19304805,0.16012588,0.13327284
+mBrain,Myeloid cells,CD163+CD14+ DCs,refined_spp1_macrophage,177,0.1747636,0.14747125,0.10542348
+mLN,Myeloid cells,CD163+CD14+ DCs,inflammatory_macrophage,133,2.6889637,2.788464,0.8892295
+tLung,Myeloid cells,CD163+CD14+ DCs,inflammatory_macrophage,660,2.184731,2.2314048,0.81151617
+mLN,Myeloid cells,mo-Mac,inflammatory_macrophage,3841,2.141539,2.244969,1.0450876
+mBrain,Myeloid cells,CD163+CD14+ DCs,inflammatory_macrophage,177,2.0319939,2.0942144,0.7973517
+tL/B,Myeloid cells,Monocytes,inflammatory_macrophage,499,1.9318514,1.9567719,0.61705303
+nLung,Myeloid cells,CD163+CD14+ DCs,inflammatory_macrophage,143,1.9032544,1.95546,0.7448252
+mLN,Myeloid cells,Monocytes,inflammatory_macrophage,563,1.7867309,1.7909348,0.63582474
+tLung,Myeloid cells,Monocytes,inflammatory_macrophage,639,1.6421213,1.6627705,0.7061796
+tL/B,Myeloid cells,mo-Mac,inflammatory_macrophage,460,1.5778031,1.5802014,0.7614838
+mBrain,Myeloid cells,Microglia/Mac,inflammatory_macrophage,563,1.5471987,1.4219759,0.8517245
+tLung,Myeloid cells,mo-Mac,inflammatory_macrophage,4678,1.4483935,1.3969433,0.88659185
+mBrain,Myeloid cells,Alveolar Mac,inflammatory_macrophage,133,1.4325687,1.4991084,0.6295951
+tLung,Myeloid cells,CD1c+ DCs,inflammatory_macrophage,528,1.4217566,1.4368272,0.77652216
+mBrain,Myeloid cells,mo-Mac,inflammatory_macrophage,3942,1.3797854,1.2655874,0.92386425
+mBrain,Myeloid cells,Monocytes,inflammatory_macrophage,251,1.3728817,1.3626888,0.63935596
+nLung,Myeloid cells,Monocytes,inflammatory_macrophage,2319,1.3525152,1.3466804,0.74293363
+nLung,Myeloid cells,mo-Mac,inflammatory_macrophage,808,1.242233,1.212703,0.75163484
+nLN,Myeloid cells,CD1c+ DCs,inflammatory_macrophage,181,1.2035638,1.2022535,0.7353768
+nLung,Myeloid cells,CD1c+ DCs,inflammatory_macrophage,880,1.114666,1.0385914,0.6745108
+nLung,Myeloid cells,Alveolar Mac,inflammatory_macrophage,12211,1.0868562,0.98832846,0.7591364
+mLN,Myeloid cells,CD163+CD14+ DCs,refined_inflammatory_macrophage,133,1.383157,1.4342808,0.4272713
+tLung,Myeloid cells,CD163+CD14+ DCs,refined_inflammatory_macrophage,660,1.1758765,1.1962926,0.39271662
+mBrain,Myeloid cells,CD163+CD14+ DCs,refined_inflammatory_macrophage,177,1.0600442,1.0747105,0.3736124
+nLung,Myeloid cells,CD163+CD14+ DCs,refined_inflammatory_macrophage,143,0.9916807,1.0092871,0.33973375
+tLung,Myeloid cells,CD1c+ DCs,refined_inflammatory_macrophage,528,0.9445186,0.929691,0.37088367
+mLN,Myeloid cells,mo-Mac,refined_inflammatory_macrophage,3841,0.85320836,0.8542108,0.4417587
+nLN,Myeloid cells,CD1c+ DCs,refined_inflammatory_macrophage,181,0.8043648,0.8014728,0.33440018
+nLung,Myeloid cells,CD1c+ DCs,refined_inflammatory_macrophage,880,0.7377061,0.7138732,0.2878612
+tLung,Myeloid cells,Monocytes,refined_inflammatory_macrophage,639,0.7030159,0.69767064,0.30804497
+mLN,Myeloid cells,Monocytes,refined_inflammatory_macrophage,563,0.6902614,0.6868992,0.26378366
+tL/B,Myeloid cells,Monocytes,refined_inflammatory_macrophage,499,0.68718594,0.68158126,0.26122132
+tL/B,Myeloid cells,mo-Mac,refined_inflammatory_macrophage,460,0.64887494,0.6259233,0.3096655
+tLung,Myeloid cells,Activated DCs,refined_inflammatory_macrophage,154,0.64196086,0.628914,0.26162264
+tLung,Myeloid cells,mo-Mac,refined_inflammatory_macrophage,4678,0.59874517,0.53581595,0.38540477
+mBrain,Myeloid cells,mo-Mac,refined_inflammatory_macrophage,3942,0.5797937,0.4938501,0.41602743
+mBrain,Myeloid cells,Microglia/Mac,refined_inflammatory_macrophage,563,0.57115126,0.5204135,0.34746385
+nLung,Myeloid cells,Monocytes,refined_inflammatory_macrophage,2319,0.56347144,0.5232209,0.30356246
+mBrain,Myeloid cells,Monocytes,refined_inflammatory_macrophage,251,0.551703,0.54348934,0.25567257
+mBrain,Myeloid cells,Alveolar Mac,refined_inflammatory_macrophage,133,0.5205086,0.47507107,0.28784797
+nLung,Myeloid cells,mo-Mac,refined_inflammatory_macrophage,808,0.49231592,0.4519055,0.28890926

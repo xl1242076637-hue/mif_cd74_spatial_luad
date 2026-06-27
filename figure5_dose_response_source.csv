@@ -1,0 +1,22 @@
+﻿perturbation_id,axis_id,perturbed_genes,evidence_type,evidence_short,line_label,n_samples,perturbation_factor,coupling_relative_delta_mean,coupling_loss,coupling_remaining,continuous_priority_score
+MIF_baseline_x1,mif_cd74_cxcr4,MIF,source_near_epithelial_progenitor,source-side,MIF (source-side),30,1.0,0.0,0.0,1.0,0.0
+mif_cd74_cxcr4_gene_MIF_x0p5,mif_cd74_cxcr4,MIF,source_near_epithelial_progenitor,source-side,MIF (source-side),30,0.5,-0.5,0.5,0.5,0.5
+mif_cd74_cxcr4_gene_MIF_x0,mif_cd74_cxcr4,MIF,source_near_epithelial_progenitor,source-side,MIF (source-side),30,0.0,-1.0,1.0,0.0,1.0
+CD74_baseline_x1,mif_cd74_cxcr4,CD74,target_near_epithelial_progenitor,receptor-side,CD74 (receptor-side),30,1.0,0.0,0.0,1.0,0.0
+mif_cd74_cxcr4_gene_CD74_x0p5,mif_cd74_cxcr4,CD74,target_near_epithelial_progenitor,receptor-side,CD74 (receptor-side),30,0.5,-0.370126584991,0.370126584991,0.629873415009,0.370126584991
+mif_cd74_cxcr4_gene_CD74_x0,mif_cd74_cxcr4,CD74,target_near_epithelial_progenitor,receptor-side,CD74 (receptor-side),30,0.0,-0.740253169982,0.740253169982,0.25974683001800003,0.740253169982
+CD44_baseline_x1,mif_cd74_cxcr4,CD44,target_near_epithelial_progenitor,receptor-side,CD44 (receptor-side),30,1.0,0.0,0.0,1.0,0.0
+mif_cd74_cxcr4_gene_CD44_x0p5,mif_cd74_cxcr4,CD44,target_near_epithelial_progenitor,receptor-side,CD44 (receptor-side),30,0.5,-0.099912187887,0.099912187887,0.900087812113,0.099912187887
+mif_cd74_cxcr4_gene_CD44_x0,mif_cd74_cxcr4,CD44,target_near_epithelial_progenitor,receptor-side,CD44 (receptor-side),30,0.0,-0.199824375773,0.199824375773,0.800175624227,0.199824375773
+CXCR4_baseline_x1,mif_cd74_cxcr4,CXCR4,target_near_epithelial_progenitor,receptor-side,CXCR4 (receptor-side),30,1.0,0.0,0.0,1.0,0.0
+mif_cd74_cxcr4_gene_CXCR4_x0p5,mif_cd74_cxcr4,CXCR4,target_near_epithelial_progenitor,receptor-side,CXCR4 (receptor-side),30,0.5,-0.029961227122,0.029961227122,0.970038772878,0.029961227122
+mif_cd74_cxcr4_gene_CXCR4_x0,mif_cd74_cxcr4,CXCR4,target_near_epithelial_progenitor,receptor-side,CXCR4 (receptor-side),30,0.0,-0.059922454244,0.059922454244,0.940077545756,0.059922454244
+SPP1_baseline_x1,spp1_trem2_macrophage_epithelial,SPP1,source_near_epithelial_progenitor,source-side,SPP1 (source-side),30,1.0,0.0,0.0,1.0,0.0
+spp1_trem2_macrophage_epithelial_gene_SPP1_x0p5,spp1_trem2_macrophage_epithelial,SPP1,source_near_epithelial_progenitor,source-side,SPP1 (source-side),30,0.5,-0.060646808663,0.060646808663,0.939353191337,0.060646808663
+spp1_trem2_macrophage_epithelial_gene_SPP1_x0,spp1_trem2_macrophage_epithelial,SPP1,source_near_epithelial_progenitor,source-side,SPP1 (source-side),30,0.0,-0.121293617325,0.121293617325,0.878706382675,0.121293617325
+TREM2_baseline_x1,c1q_apoe_trem2_lgals3,TREM2,target_near_epithelial_progenitor,receptor-side,TREM2 (receptor-side),30,1.0,0.0,0.0,1.0,0.0
+c1q_apoe_trem2_lgals3_gene_TREM2_x0p5,c1q_apoe_trem2_lgals3,TREM2,target_near_epithelial_progenitor,receptor-side,TREM2 (receptor-side),30,0.5,-0.031273441801,0.031273441801,0.968726558199,0.031273441801
+c1q_apoe_trem2_lgals3_gene_TREM2_x0,c1q_apoe_trem2_lgals3,TREM2,target_near_epithelial_progenitor,receptor-side,TREM2 (receptor-side),30,0.0,-0.062546883603,0.062546883603,0.937453116397,0.062546883603
+PLA2G7_baseline_x1,spp1_trem2_macrophage_epithelial,PLA2G7,source_near_epithelial_progenitor,source-side,PLA2G7 (source-side),30,1.0,0.0,0.0,1.0,0.0
+spp1_trem2_macrophage_epithelial_gene_PLA2G7_x0p5,spp1_trem2_macrophage_epithelial,PLA2G7,source_near_epithelial_progenitor,source-side,PLA2G7 (source-side),30,0.5,-0.010163213191,0.010163213191,0.989836786809,0.010163213191
+spp1_trem2_macrophage_epithelial_gene_PLA2G7_x0,spp1_trem2_macrophage_epithelial,PLA2G7,source_near_epithelial_progenitor,source-side,PLA2G7 (source-side),30,0.0,-0.020326426382,0.020326426382,0.979673573618,0.020326426382

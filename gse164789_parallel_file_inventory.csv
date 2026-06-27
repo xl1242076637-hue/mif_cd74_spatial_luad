@@ -1,0 +1,2 @@
+﻿accession,filename,url,local_path,remote_bytes,local_bytes,download_complete,download_status
+GSE164789,GSE164789_RAW.tar,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE164nnn/GSE164789/suppl/GSE164789_RAW.tar,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE164789\GSE164789_RAW.tar,2117703680,0,False,missing

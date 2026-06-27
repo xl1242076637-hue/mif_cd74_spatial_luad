@@ -1,0 +1,8 @@
+﻿target_gene,canonical_state,n_validation_rows,n_expected_specificity_rows,n_higher_in_comparison_rows,n_lower_in_comparison_rows,datasets
+CD44,c1q_macrophage,4,1,0,3,"GSE307534,GSE189357,GSE164789,GSE131907"
+TREM2,c1q_macrophage,4,1,0,3,"GSE307534,GSE189357,GSE164789,GSE131907"
+PLA2G7,spp1_macrophage,4,1,2,1,"GSE307534,GSE189357,GSE164789,GSE131907"
+CD74,c1q_macrophage,4,1,0,3,"GSE307534,GSE189357,GSE164789,GSE131907"
+MIF,proliferating_epithelial,4,1,3,0,"GSE307534,GSE189357,GSE164789,GSE131907"
+CXCR4,spp1_macrophage,4,1,2,1,"GSE307534,GSE189357,GSE164789,GSE131907"
+SPP1,spp1_macrophage,4,1,2,1,"GSE307534,GSE189357,GSE164789,GSE131907"

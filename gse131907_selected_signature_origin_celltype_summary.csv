@@ -1,0 +1,947 @@
+﻿Sample_Origin,Cell_type.refined,n_cells,mean_score,median_score,sd_score,score
+PE,B lymphocytes,3285,0.01259655,0.0,0.03389931,epithelial
+PE,Epithelial cells,396,1.4868826,1.4029292,0.8657007,epithelial
+PE,Myeloid cells,3063,0.026730638,0.0,0.054150354,epithelial
+PE,T/NK cells,9192,0.015113975,0.0,0.035424754,epithelial
+PE,,4368,0.015925309,0.0,0.038208682,epithelial
+mBrain,B lymphocytes,1311,0.33595967,0.3080654,0.32937202,epithelial
+mBrain,Endothelial cells,159,0.21062054,0.1540327,0.21671018,epithelial
+mBrain,Epithelial cells,15463,1.4274877,1.3471589,0.78733337,epithelial
+mBrain,Fibroblasts,444,0.19869219,0.1540327,0.23791134,epithelial
+mBrain,MAST cells,508,0.44187525,0.46209812,0.2286195,epithelial
+mBrain,Myeloid cells,5657,0.1403887,0.07701635,0.20418678,epithelial
+mBrain,T/NK cells,2683,0.20220622,0.07701635,0.22813511,epithelial
+mBrain,,2835,0.17857888,0.07701635,0.22644348,epithelial
+mLN,B lymphocytes,6062,0.014960021,0.0,0.038395677,epithelial
+mLN,Epithelial cells,3053,1.4938757,1.6308297,0.94804657,epithelial
+mLN,Myeloid cells,5442,0.056690805,0.0,0.08125065,epithelial
+mLN,T/NK cells,5069,0.021030594,0.0,0.044689756,epithelial
+mLN,,1819,0.027061528,0.0,0.058912415,epithelial
+nLN,B lymphocytes,10584,0.001958344,0.0,0.013254771,epithelial
+nLN,Myeloid cells,1288,0.005607271,0.0,0.025270259,epithelial
+nLN,T/NK cells,19478,0.0020854857,0.0,0.012734746,epithelial
+nLN,,6096,0.0018793568,0.0,0.012487918,epithelial
+nLung,B lymphocytes,634,0.14263143,0.12206803,0.12290338,epithelial
+nLung,Endothelial cells,1295,0.12793939,0.12206803,0.110784456,epithelial
+nLung,Epithelial cells,3703,1.8377728,2.0538683,1.0263342,epithelial
+nLung,Fibroblasts,1585,0.16272026,0.12206803,0.23118927,epithelial
+nLung,MAST cells,1079,0.12653823,0.12206803,0.10798781,epithelial
+nLung,Myeloid cells,16672,0.24537839,0.19908439,0.17730844,epithelial
+nLung,T/NK cells,11413,0.11176844,0.07701635,0.09315658,epithelial
+nLung,,6614,0.114552304,0.07701635,0.11489962,epithelial
+tL/B,B lymphocytes,469,0.04413411,0.0,0.08974763,epithelial
+tL/B,Epithelial cells,6582,1.3120731,1.3075283,0.6318592,epithelial
+tL/B,Myeloid cells,1329,0.07405974,0.07701635,0.10811987,epithelial
+tL/B,T/NK cells,2627,0.028712243,0.0,0.05064958,epithelial
+tL/B,,963,0.027368614,0.0,0.05421811,epithelial
+tLung,B lymphocytes,5312,0.092834085,0.07701635,0.110050954,epithelial
+tLung,Endothelial cells,627,0.13967326,0.12206803,0.13036054,epithelial
+tLung,Epithelial cells,7270,1.83619,1.8313318,0.7862531,epithelial
+tLung,Fibroblasts,1654,0.11773155,0.07701635,0.19538976,epithelial
+tLung,MAST cells,1809,0.08640548,0.07701635,0.08583221,epithelial
+tLung,Myeloid cells,8794,0.16143458,0.1540327,0.14058085,epithelial
+tLung,T/NK cells,13941,0.07311953,0.07701635,0.07930381,epithelial
+tLung,,5742,0.0770163,0.07701635,0.0863265,epithelial
+PE,B lymphocytes,3285,0.035056714,0.0,0.058677718,macrophage
+PE,Epithelial cells,396,0.30554834,0.20794415,0.31429625,macrophage
+PE,Myeloid cells,3063,1.1876644,1.0316921,0.6533477,macrophage
+PE,T/NK cells,9192,0.029834144,0.0,0.049861357,macrophage
+PE,,4368,0.04313168,0.0,0.073536694,macrophage
+mBrain,B lymphocytes,1311,0.13854378,0.06931472,0.18179157,macrophage
+mBrain,Endothelial cells,159,0.15456809,0.06931472,0.19931826,macrophage
+mBrain,Epithelial cells,15463,0.13466434,0.06931472,0.19745085,macrophage
+mBrain,Fibroblasts,444,0.46256015,0.34960482,0.38504285,macrophage
+mBrain,MAST cells,508,0.16230436,0.13862944,0.12603448,macrophage
+mBrain,Myeloid cells,5657,1.7523298,1.6251564,0.92443436,macrophage
+mBrain,T/NK cells,2683,0.1145183,0.06931472,0.12453897,macrophage
+mBrain,,2835,0.17346089,0.10986123,0.23094462,macrophage
+mLN,B lymphocytes,6062,0.08879944,0.06931472,0.09958936,macrophage
+mLN,Epithelial cells,3053,0.31975535,0.20794415,0.35479176,macrophage
+mLN,Myeloid cells,5442,1.7969459,1.7714026,0.95989513,macrophage
+mLN,T/NK cells,5069,0.06641828,0.06931472,0.0848675,macrophage
+mLN,,1819,0.06715298,0.06931472,0.09078202,macrophage
+nLN,B lymphocytes,10584,0.052204043,0.0,0.08903437,macrophage
+nLN,Myeloid cells,1288,0.958639,0.5723393,1.0016613,macrophage
+nLN,T/NK cells,19478,0.01909518,0.0,0.042340487,macrophage
+nLN,,6096,0.025257654,0.0,0.058886014,macrophage
+nLung,B lymphocytes,634,0.19348289,0.13862944,0.22893125,macrophage
+nLung,Endothelial cells,1295,0.13169074,0.06931472,0.31176895,macrophage
+nLung,Epithelial cells,3703,0.22654432,0.13862944,0.34948224,macrophage
+nLung,Fibroblasts,1585,0.13493541,0.06931472,0.24846876,macrophage
+nLung,MAST cells,1079,0.15224206,0.06931472,0.27738556,macrophage
+nLung,Myeloid cells,16672,1.9471707,2.0463076,0.89374804,macrophage
+nLung,T/NK cells,11413,0.09458106,0.06931472,0.09857745,macrophage
+nLung,,6614,0.09730931,0.06931472,0.12809023,macrophage
+tL/B,B lymphocytes,469,0.077003315,0.06931472,0.10780424,macrophage
+tL/B,Epithelial cells,6582,0.09147338,0.0,0.1706774,macrophage
+tL/B,Myeloid cells,1329,1.2093709,0.8921057,0.9244354,macrophage
+tL/B,T/NK cells,2627,0.041662008,0.0,0.056930948,macrophage
+tL/B,,963,0.038733862,0.0,0.052350298,macrophage
+tLung,B lymphocytes,5312,0.08911483,0.06931472,0.098954245,macrophage
+tLung,Endothelial cells,627,0.11597596,0.06931472,0.17342891,macrophage
+tLung,Epithelial cells,7270,0.16105485,0.10986123,0.23170112,macrophage
+tLung,Fibroblasts,1654,0.20839953,0.17917594,0.2176988,macrophage
+tLung,MAST cells,1809,0.12774931,0.10986123,0.13206439,macrophage
+tLung,Myeloid cells,8794,1.8812163,1.9078925,0.9618938,macrophage
+tLung,T/NK cells,13941,0.06867466,0.06931472,0.08222582,macrophage
+tLung,,5742,0.06403325,0.06931472,0.07987649,macrophage
+PE,B lymphocytes,3285,7.033457e-05,0.0,0.0028500692,mast_cell
+PE,Epithelial cells,396,0.016722921,0.0,0.050979946,mast_cell
+PE,Myeloid cells,3063,0.0043388,0.0,0.079930484,mast_cell
+PE,T/NK cells,9192,0.00018851915,0.0,0.004663198,mast_cell
+PE,,4368,0.00091919466,0.0,0.012017897,mast_cell
+mBrain,B lymphocytes,1311,0.025184672,0.0,0.07643138,mast_cell
+mBrain,Endothelial cells,159,0.015246118,0.0,0.052981272,mast_cell
+mBrain,Epithelial cells,15463,0.011601926,0.0,0.052636683,mast_cell
+mBrain,Fibroblasts,444,0.0028620942,0.0,0.01958139,mast_cell
+mBrain,MAST cells,508,2.1388576,2.1717072,0.45975506,mast_cell
+mBrain,Myeloid cells,5657,0.013692069,0.0,0.092169695,mast_cell
+mBrain,T/NK cells,2683,0.010603206,0.0,0.051782575,mast_cell
+mBrain,,2835,0.010383716,0.0,0.053937547,mast_cell
+mLN,B lymphocytes,6062,0.0014326212,0.0,0.04735836,mast_cell
+mLN,Epithelial cells,3053,0.0085774865,0.0,0.03207464,mast_cell
+mLN,Myeloid cells,5442,0.029520523,0.0,0.2643845,mast_cell
+mLN,T/NK cells,5069,0.0011167295,0.0,0.011982821,mast_cell
+mLN,,1819,0.0018622332,0.0,0.015307342,mast_cell
+nLN,B lymphocytes,10584,0.0013602829,0.0,0.038727637,mast_cell
+nLN,Myeloid cells,1288,0.010081923,0.0,0.12967606,mast_cell
+nLN,T/NK cells,19478,0.0003558616,0.0,0.0067154667,mast_cell
+nLN,,6096,0.0047036055,0.0,0.085980214,mast_cell
+nLung,B lymphocytes,634,0.010159397,0.0,0.03840941,mast_cell
+nLung,Endothelial cells,1295,0.022368796,0.0,0.099810675,mast_cell
+nLung,Epithelial cells,3703,0.015688606,0.0,0.102906644,mast_cell
+nLung,Fibroblasts,1585,0.0043126675,0.0,0.02263618,mast_cell
+nLung,MAST cells,1079,2.0159762,2.0741923,0.48082942,mast_cell
+nLung,Myeloid cells,16672,0.014503159,0.0,0.049523417,mast_cell
+nLung,T/NK cells,11413,0.0045305556,0.0,0.024176268,mast_cell
+nLung,,6614,0.0036594372,0.0,0.021091927,mast_cell
+tL/B,B lymphocytes,469,0.006896987,0.0,0.031288,mast_cell
+tL/B,Epithelial cells,6582,0.010427898,0.0,0.049429275,mast_cell
+tL/B,Myeloid cells,1329,0.16800857,0.0,0.60084945,mast_cell
+tL/B,T/NK cells,2627,0.0044493973,0.0,0.04249759,mast_cell
+tL/B,,963,0.0057292776,0.0,0.055362493,mast_cell
+tLung,B lymphocytes,5312,0.021379992,0.0,0.06352716,mast_cell
+tLung,Endothelial cells,627,0.03683169,0.0,0.138778,mast_cell
+tLung,Epithelial cells,7270,0.029439073,0.0,0.100777104,mast_cell
+tLung,Fibroblasts,1654,0.026838716,0.0,0.12367864,mast_cell
+tLung,MAST cells,1809,2.075305,2.0796297,0.51186126,mast_cell
+tLung,Myeloid cells,8794,0.029251272,0.0,0.10780351,mast_cell
+tLung,T/NK cells,13941,0.0095479945,0.0,0.034627225,mast_cell
+tLung,,5742,0.010185326,0.0,0.052537534,mast_cell
+PE,B lymphocytes,3285,0.03429583,0.0,0.0699929,neutrophil
+PE,Epithelial cells,396,0.18991622,0.12798283,0.2102978,neutrophil
+PE,Myeloid cells,3063,0.82649994,0.8889395,0.43946624,neutrophil
+PE,T/NK cells,9192,0.033553787,0.0,0.06343224,neutrophil
+PE,,4368,0.03714761,0.0,0.06706224,neutrophil
+mBrain,B lymphocytes,1311,0.046743926,0.0,0.09611294,neutrophil
+mBrain,Endothelial cells,159,0.0759351,0.0,0.11866277,neutrophil
+mBrain,Epithelial cells,15463,0.24546798,0.15694462,0.29418895,neutrophil
+mBrain,Fibroblasts,444,0.12824239,0.0,0.17808227,neutrophil
+mBrain,MAST cells,508,0.02685227,0.0,0.06304424,neutrophil
+mBrain,Myeloid cells,5657,0.438289,0.35498667,0.37494633,neutrophil
+mBrain,T/NK cells,2683,0.0521272,0.0,0.084461845,neutrophil
+mBrain,,2835,0.048477754,0.0,0.100135654,neutrophil
+mLN,B lymphocytes,6062,0.023576103,0.0,0.05130733,neutrophil
+mLN,Epithelial cells,3053,0.38656414,0.3664213,0.32786608,neutrophil
+mLN,Myeloid cells,5442,0.5028476,0.43493178,0.3770773,neutrophil
+mLN,T/NK cells,5069,0.022945017,0.0,0.05014876,neutrophil
+mLN,,1819,0.029507335,0.0,0.0534649,neutrophil
+nLN,B lymphocytes,10584,0.002691636,0.0,0.017022751,neutrophil
+nLN,Myeloid cells,1288,0.14167398,0.0,0.21488509,neutrophil
+nLN,T/NK cells,19478,0.0013141956,0.0,0.0115423845,neutrophil
+nLN,,6096,0.0016026231,0.0,0.014507604,neutrophil
+nLung,B lymphocytes,634,0.028220333,0.0,0.066674314,neutrophil
+nLung,Endothelial cells,1295,0.03497925,0.0,0.10615564,neutrophil
+nLung,Epithelial cells,3703,0.14361511,0.099021025,0.17281167,neutrophil
+nLung,Fibroblasts,1585,0.033965085,0.0,0.08470648,neutrophil
+nLung,MAST cells,1079,0.029717118,0.0,0.08710886,neutrophil
+nLung,Myeloid cells,16672,0.5427921,0.5588604,0.31047904,neutrophil
+nLung,T/NK cells,11413,0.02071774,0.0,0.04747333,neutrophil
+nLung,,6614,0.02301336,0.0,0.05509464,neutrophil
+tL/B,B lymphocytes,469,0.039905027,0.0,0.076790035,neutrophil
+tL/B,Epithelial cells,6582,0.18207945,0.099021025,0.20557897,neutrophil
+tL/B,Myeloid cells,1329,0.5340629,0.42796177,0.46049562,neutrophil
+tL/B,T/NK cells,2627,0.025966361,0.0,0.053772964,neutrophil
+tL/B,,963,0.026069298,0.0,0.05450926,neutrophil
+tLung,B lymphocytes,5312,0.015656494,0.0,0.0425039,neutrophil
+tLung,Endothelial cells,627,0.02271818,0.0,0.059523154,neutrophil
+tLung,Epithelial cells,7270,0.20934932,0.15694462,0.20258744,neutrophil
+tLung,Fibroblasts,1654,0.023333678,0.0,0.056972526,neutrophil
+tLung,MAST cells,1809,0.012106223,0.0,0.03968182,neutrophil
+tLung,Myeloid cells,8794,0.46042737,0.3960841,0.37057,neutrophil
+tLung,T/NK cells,13941,0.012473775,0.0,0.035703756,neutrophil
+tLung,,5742,0.011285129,0.0,0.034467395,neutrophil
+PE,B lymphocytes,3285,0.013193466,0.0,0.04820808,dendritic
+PE,Epithelial cells,396,0.027906481,0.0,0.100660175,dendritic
+PE,Myeloid cells,3063,0.36871946,0.21972246,0.47187093,dendritic
+PE,T/NK cells,9192,0.0038546126,0.0,0.024257185,dendritic
+PE,,4368,0.030438902,0.0,0.1093253,dendritic
+mBrain,B lymphocytes,1311,0.008103211,0.0,0.040855844,dendritic
+mBrain,Endothelial cells,159,0.00087188324,0.0,0.010994029,dendritic
+mBrain,Epithelial cells,15463,0.0007082536,0.0,0.0098838,dendritic
+mBrain,Fibroblasts,444,0.0019264262,0.0,0.021952264,dendritic
+mBrain,MAST cells,508,0.05077025,0.0,0.08660634,dendritic
+mBrain,Myeloid cells,5657,0.05937133,0.0,0.17393224,dendritic
+mBrain,T/NK cells,2683,0.0006717043,0.0,0.009628154,dendritic
+mBrain,,2835,0.00073348905,0.0,0.010711835,dendritic
+mLN,B lymphocytes,6062,0.018108873,0.0,0.05743652,dendritic
+mLN,Epithelial cells,3053,0.0058162734,0.0,0.044004492,dendritic
+mLN,Myeloid cells,5442,0.073153965,0.0,0.19130568,dendritic
+mLN,T/NK cells,5069,0.00068371196,0.0,0.009712556,dendritic
+mLN,,1819,0.0005334833,0.0,0.010770167,dendritic
+nLN,B lymphocytes,10584,0.020742618,0.0,0.059167452,dendritic
+nLN,Myeloid cells,1288,0.17674953,0.0,0.33145338,dendritic
+nLN,T/NK cells,19478,0.0008469505,0.0,0.010893776,dendritic
+nLN,,6096,0.016616773,0.0,0.08357895,dendritic
+nLung,B lymphocytes,634,0.108638115,0.0,0.18593724,dendritic
+nLung,Endothelial cells,1295,0.0022463007,0.0,0.035441767,dendritic
+nLung,Epithelial cells,3703,0.002959553,0.0,0.023737866,dendritic
+nLung,Fibroblasts,1585,0.0048145396,0.0,0.045895997,dendritic
+nLung,MAST cells,1079,0.12415918,0.13862944,0.12454851,dendritic
+nLung,Myeloid cells,16672,0.07120619,0.0,0.2370436,dendritic
+nLung,T/NK cells,11413,0.00070450426,0.0,0.009857851,dendritic
+nLung,,6614,0.00097399304,0.0,0.018079806,dendritic
+tL/B,B lymphocytes,469,0.011505596,0.0,0.04361777,dendritic
+tL/B,Epithelial cells,6582,0.0013288952,0.0,0.017496508,dendritic
+tL/B,Myeloid cells,1329,0.06885024,0.0,0.18486238,dendritic
+tL/B,T/NK cells,2627,0.00047493906,0.0,0.008101849,dendritic
+tL/B,,963,0.0004318674,0.0,0.007729493,dendritic
+tLung,B lymphocytes,5312,0.014324159,0.0,0.050297193,dendritic
+tLung,Endothelial cells,627,0.005966086,0.0,0.04650894,dendritic
+tLung,Epithelial cells,7270,0.003681723,0.0,0.034328904,dendritic
+tLung,Fibroblasts,1654,0.0064399373,0.0,0.045672785,dendritic
+tLung,MAST cells,1809,0.11093854,0.13862944,0.11879723,dendritic
+tLung,Myeloid cells,8794,0.13480367,0.0,0.2946465,dendritic
+tLung,T/NK cells,13941,0.0015297038,0.0,0.015837584,dendritic
+tLung,,5742,0.0014674478,0.0,0.016631918,dendritic
+PE,B lymphocytes,3285,0.1321253,0.11552453,0.2051415,t_nk
+PE,Epithelial cells,396,0.21252081,0.11552453,0.27975917,t_nk
+PE,Myeloid cells,3063,0.24737403,0.23104906,0.24365649,t_nk
+PE,T/NK cells,9192,0.89896274,0.8654928,0.2832553,t_nk
+PE,,4368,0.5793554,0.54930615,0.31128076,t_nk
+mBrain,B lymphocytes,1311,0.058869507,0.0,0.093457244,t_nk
+mBrain,Endothelial cells,159,0.021785242,0.0,0.078513324,t_nk
+mBrain,Epithelial cells,15463,0.01849905,0.0,0.06767077,t_nk
+mBrain,Fibroblasts,444,0.026727822,0.0,0.066021115,t_nk
+mBrain,MAST cells,508,0.05365034,0.0,0.11391862,t_nk
+mBrain,Myeloid cells,5657,0.11050915,0.0,0.1684053,t_nk
+mBrain,T/NK cells,2683,0.84047323,0.7803552,0.36745244,t_nk
+mBrain,,2835,0.38499698,0.29862657,0.39699692,t_nk
+mLN,B lymphocytes,6062,0.1367116,0.11552453,0.17027164,t_nk
+mLN,Epithelial cells,3053,0.11289652,0.0,0.18729031,t_nk
+mLN,Myeloid cells,5442,0.17682526,0.11552453,0.20887205,t_nk
+mLN,T/NK cells,5069,1.056995,0.9985774,0.3958989,t_nk
+mLN,,1819,0.810866,0.7499683,0.45881125,t_nk
+nLN,B lymphocytes,10584,0.12749575,0.11552453,0.17422614,t_nk
+nLN,Myeloid cells,1288,0.19976982,0.11552453,0.25540227,t_nk
+nLN,T/NK cells,19478,0.8085561,0.7979153,0.23652674,t_nk
+nLN,,6096,0.46562827,0.45134172,0.26610076,t_nk
+nLung,B lymphocytes,634,0.13985293,0.11552453,0.19995524,t_nk
+nLung,Endothelial cells,1295,0.07991368,0.0,0.22396663,t_nk
+nLung,Epithelial cells,3703,0.08837479,0.0,0.18870391,t_nk
+nLung,Fibroblasts,1585,0.08238251,0.0,0.17362231,t_nk
+nLung,MAST cells,1079,0.083422415,0.0,0.15194635,t_nk
+nLung,Myeloid cells,16672,0.25817353,0.23104906,0.2232971,t_nk
+nLung,T/NK cells,11413,1.0097088,0.98782104,0.33109805,t_nk
+nLung,,6614,0.87747306,0.901941,0.43058136,t_nk
+tL/B,B lymphocytes,469,0.14721952,0.11552453,0.18967366,t_nk
+tL/B,Epithelial cells,6582,0.037225496,0.0,0.12343277,t_nk
+tL/B,Myeloid cells,1329,0.18087357,0.11552453,0.21875164,t_nk
+tL/B,T/NK cells,2627,1.0940735,1.0485948,0.39803886,t_nk
+tL/B,,963,0.83158755,0.7607247,0.4854685,t_nk
+tLung,B lymphocytes,5312,0.10724185,0.11552453,0.16614658,t_nk
+tLung,Endothelial cells,627,0.054897387,0.0,0.14796756,t_nk
+tLung,Epithelial cells,7270,0.065088704,0.0,0.13782787,t_nk
+tLung,Fibroblasts,1654,0.07633443,0.0,0.17485607,t_nk
+tLung,MAST cells,1809,0.056590978,0.0,0.117483385,t_nk
+tLung,Myeloid cells,8794,0.1977321,0.11552453,0.22954427,t_nk
+tLung,T/NK cells,13941,0.9123019,0.8654928,0.32043865,t_nk
+tLung,,5742,0.5895988,0.52967566,0.35156438,t_nk
+PE,B lymphocytes,3285,0.90992963,0.8553332,0.41732192,b_plasma
+PE,Epithelial cells,396,0.11663503,0.0,0.18743618,b_plasma
+PE,Myeloid cells,3063,0.047167838,0.0,0.1113155,b_plasma
+PE,T/NK cells,9192,0.035489745,0.0,0.073993444,b_plasma
+PE,,4368,0.08342207,0.0,0.21577066,b_plasma
+mBrain,B lymphocytes,1311,0.9555716,0.79779685,0.67486835,b_plasma
+mBrain,Endothelial cells,159,0.01998776,0.0,0.05982547,b_plasma
+mBrain,Epithelial cells,15463,0.009546877,0.0,0.04357894,b_plasma
+mBrain,Fibroblasts,444,0.034670446,0.0,0.08130439,b_plasma
+mBrain,MAST cells,508,0.03381982,0.0,0.09414723,b_plasma
+mBrain,Myeloid cells,5657,0.016669445,0.0,0.070399955,b_plasma
+mBrain,T/NK cells,2683,0.040005416,0.0,0.08628907,b_plasma
+mBrain,,2835,0.023162981,0.0,0.10403373,b_plasma
+mLN,B lymphocytes,6062,0.865492,0.8050703,0.46824548,b_plasma
+mLN,Epithelial cells,3053,0.05727831,0.0,0.13996129,b_plasma
+mLN,Myeloid cells,5442,0.044486042,0.0,0.1569605,b_plasma
+mLN,T/NK cells,5069,0.046168875,0.0,0.09742425,b_plasma
+mLN,,1819,0.035109237,0.0,0.10187472,b_plasma
+nLN,B lymphocytes,10584,0.87575746,0.81886894,0.47202852,b_plasma
+nLN,Myeloid cells,1288,0.1679853,0.0,0.28677696,b_plasma
+nLN,T/NK cells,19478,0.053181324,0.0,0.094638124,b_plasma
+nLN,,6096,0.08267739,0.0,0.20624387,b_plasma
+nLung,B lymphocytes,634,0.7753617,0.6591674,0.68181264,b_plasma
+nLung,Endothelial cells,1295,0.012306848,0.0,0.062074445,b_plasma
+nLung,Epithelial cells,3703,0.00914394,0.0,0.03917438,b_plasma
+nLung,Fibroblasts,1585,0.007272897,0.0,0.037018765,b_plasma
+nLung,MAST cells,1079,0.011788627,0.0,0.042866677,b_plasma
+nLung,Myeloid cells,16672,0.013989091,0.0,0.054313943,b_plasma
+nLung,T/NK cells,11413,0.01449235,0.0,0.04646716,b_plasma
+nLung,,6614,0.01229493,0.0,0.059465222,b_plasma
+tL/B,B lymphocytes,469,0.91874063,0.81886894,0.56818795,b_plasma
+tL/B,Epithelial cells,6582,0.012555748,0.0,0.048354823,b_plasma
+tL/B,Myeloid cells,1329,0.037586335,0.0,0.11809544,b_plasma
+tL/B,T/NK cells,2627,0.036994882,0.0,0.08006105,b_plasma
+tL/B,,963,0.029185398,0.0,0.07762281,b_plasma
+tLung,B lymphocytes,5312,1.0090828,0.81886894,0.6693466,b_plasma
+tLung,Endothelial cells,627,0.064101264,0.0,0.14224453,b_plasma
+tLung,Epithelial cells,7270,0.037896704,0.0,0.11484016,b_plasma
+tLung,Fibroblasts,1654,0.07231631,0.0,0.15272948,b_plasma
+tLung,MAST cells,1809,0.03749984,0.0,0.0964497,b_plasma
+tLung,Myeloid cells,8794,0.064265445,0.0,0.15510288,b_plasma
+tLung,T/NK cells,13941,0.058821276,0.0,0.10775802,b_plasma
+tLung,,5742,0.0533041,0.0,0.18274896,b_plasma
+PE,B lymphocytes,3285,0.011285319,0.0,0.044102814,endothelial
+PE,Epithelial cells,396,0.078246765,0.0,0.14100367,endothelial
+PE,Myeloid cells,3063,0.13809463,0.13862944,0.1454073,endothelial
+PE,T/NK cells,9192,0.0084826695,0.0,0.03456446,endothelial
+PE,,4368,0.011949434,0.0,0.04357779,endothelial
+mBrain,B lymphocytes,1311,0.031268597,0.0,0.07854507,endothelial
+mBrain,Endothelial cells,159,1.7424376,1.5816774,0.92116565,endothelial
+mBrain,Epithelial cells,15463,0.034865633,0.0,0.077953175,endothelial
+mBrain,Fibroblasts,444,0.16780987,0.13862944,0.17756765,endothelial
+mBrain,MAST cells,508,0.004639174,0.0,0.024956565,endothelial
+mBrain,Myeloid cells,5657,0.11049921,0.0,0.14310573,endothelial
+mBrain,T/NK cells,2683,0.009805562,0.0,0.037991494,endothelial
+mBrain,,2835,0.018669054,0.0,0.1691411,endothelial
+mLN,B lymphocytes,6062,0.007199797,0.0,0.033198915,endothelial
+mLN,Epithelial cells,3053,0.08815645,0.0,0.13643903,endothelial
+mLN,Myeloid cells,5442,0.16339824,0.13862944,0.17845717,endothelial
+mLN,T/NK cells,5069,0.009015617,0.0,0.036976688,endothelial
+mLN,,1819,0.008682426,0.0,0.03553095,endothelial
+nLN,B lymphocytes,10584,0.010292179,0.0,0.040777687,endothelial
+nLN,Myeloid cells,1288,0.092559285,0.0,0.18399349,endothelial
+nLN,T/NK cells,19478,0.0070109256,0.0,0.032120008,endothelial
+nLN,,6096,0.008015177,0.0,0.03469386,endothelial
+nLung,B lymphocytes,634,0.032980975,0.0,0.07823874,endothelial
+nLung,Endothelial cells,1295,0.9626335,0.89996195,0.45037666,endothelial
+nLung,Epithelial cells,3703,0.030496052,0.0,0.087009795,endothelial
+nLung,Fibroblasts,1585,0.07456115,0.0,0.10191312,endothelial
+nLung,MAST cells,1079,0.01785303,0.0,0.071469314,endothelial
+nLung,Myeloid cells,16672,0.25795946,0.21972246,0.20217267,endothelial
+nLung,T/NK cells,11413,0.010020528,0.0,0.037961468,endothelial
+nLung,,6614,0.014334288,0.0,0.07371539,endothelial
+tL/B,B lymphocytes,469,0.01914646,0.0,0.062264998,endothelial
+tL/B,Epithelial cells,6582,0.05065497,0.0,0.099510975,endothelial
+tL/B,Myeloid cells,1329,0.10873055,0.0,0.15162306,endothelial
+tL/B,T/NK cells,2627,0.008958137,0.0,0.03480926,endothelial
+tL/B,,963,0.0059266496,0.0,0.028711392,endothelial
+tLung,B lymphocytes,5312,0.02019015,0.0,0.059903156,endothelial
+tLung,Endothelial cells,627,1.236892,1.1869788,0.56515557,endothelial
+tLung,Epithelial cells,7270,0.05276006,0.0,0.107870325,endothelial
+tLung,Fibroblasts,1654,0.1326065,0.13862944,0.13131659,endothelial
+tLung,MAST cells,1809,0.006659952,0.0,0.031054726,endothelial
+tLung,Myeloid cells,8794,0.17543602,0.13862944,0.1805756,endothelial
+tLung,T/NK cells,13941,0.0070036035,0.0,0.032016072,endothelial
+tLung,,5742,0.009631066,0.0,0.06337799,endothelial
+PE,B lymphocytes,3285,0.0012907081,0.0,0.013518279,fibroblast
+PE,Epithelial cells,396,0.44950002,0.13862944,0.7074193,fibroblast
+PE,Myeloid cells,3063,0.0033477994,0.0,0.026076715,fibroblast
+PE,T/NK cells,9192,0.0017582797,0.0,0.015710015,fibroblast
+PE,,4368,0.0019042505,0.0,0.01640793,fibroblast
+mBrain,B lymphocytes,1311,0.01649024,0.0,0.08609295,fibroblast
+mBrain,Endothelial cells,159,0.05254375,0.0,0.12647784,fibroblast
+mBrain,Epithelial cells,15463,0.11447231,0.0,0.19870755,fibroblast
+mBrain,Fibroblasts,444,2.717312,2.489915,1.5481749,fibroblast
+mBrain,MAST cells,508,0.001364463,0.0,0.013698992,fibroblast
+mBrain,Myeloid cells,5657,0.052428924,0.0,0.1211112,fibroblast
+mBrain,T/NK cells,2683,0.011970789,0.0,0.046074785,fibroblast
+mBrain,,2835,0.021268947,0.0,0.15582559,fibroblast
+mLN,B lymphocytes,6062,0.004752004,0.0,0.028721785,fibroblast
+mLN,Epithelial cells,3053,0.1992149,0.0,0.30861166,fibroblast
+mLN,Myeloid cells,5442,0.009208413,0.0,0.079091124,fibroblast
+mLN,T/NK cells,5069,0.0032637632,0.0,0.021353029,fibroblast
+mLN,,1819,0.004628949,0.0,0.03736633,fibroblast
+nLN,B lymphocytes,10584,0.0018730381,0.0,0.018783594,fibroblast
+nLN,Myeloid cells,1288,0.05980065,0.0,0.33177736,fibroblast
+nLN,T/NK cells,19478,0.00072125916,0.0,0.010155389,fibroblast
+nLN,,6096,0.001261943,0.0,0.014983143,fibroblast
+nLung,B lymphocytes,634,0.014085246,0.0,0.052304868,fibroblast
+nLung,Endothelial cells,1295,0.01875399,0.0,0.054928277,fibroblast
+nLung,Epithelial cells,3703,0.034900125,0.0,0.0943539,fibroblast
+nLung,Fibroblasts,1585,2.3575675,2.4540908,0.8847009,fibroblast
+nLung,MAST cells,1079,0.00859847,0.0,0.038141776,fibroblast
+nLung,Myeloid cells,16672,0.023337785,0.0,0.06972941,fibroblast
+nLung,T/NK cells,11413,0.008197186,0.0,0.036706425,fibroblast
+nLung,,6614,0.014533077,0.0,0.105533704,fibroblast
+tL/B,B lymphocytes,469,0.011578049,0.0,0.043895926,fibroblast
+tL/B,Epithelial cells,6582,0.117957264,0.0,0.20725954,fibroblast
+tL/B,Myeloid cells,1329,0.02486258,0.0,0.17618716,fibroblast
+tL/B,T/NK cells,2627,0.0074885692,0.0,0.0365469,fibroblast
+tL/B,,963,0.006502473,0.0,0.03464307,fibroblast
+tLung,B lymphocytes,5312,0.032738127,0.0,0.082989454,fibroblast
+tLung,Endothelial cells,627,0.034567036,0.0,0.084079415,fibroblast
+tLung,Epithelial cells,7270,0.14747201,0.0,0.22257325,fibroblast
+tLung,Fibroblasts,1654,2.7782164,2.7535508,1.1542938,fibroblast
+tLung,MAST cells,1809,0.013475916,0.0,0.04808644,fibroblast
+tLung,Myeloid cells,8794,0.033771325,0.0,0.087794624,fibroblast
+tLung,T/NK cells,13941,0.019613773,0.0,0.056465298,fibroblast
+tLung,,5742,0.023459487,0.0,0.07081031,fibroblast
+PE,B lymphocytes,3285,0.0009953029,0.0,0.011935454,at2_mature
+PE,Epithelial cells,396,0.13514057,0.0,0.31240466,at2_mature
+PE,Myeloid cells,3063,0.01720832,0.0,0.079972945,at2_mature
+PE,T/NK cells,9192,0.002843016,0.0,0.020047411,at2_mature
+PE,,4368,0.0029306368,0.0,0.020349337,at2_mature
+mBrain,B lymphocytes,1311,0.4852565,0.3583519,0.5397826,at2_mature
+mBrain,Endothelial cells,159,0.078294344,0.0,0.18689834,at2_mature
+mBrain,Epithelial cells,15463,0.34837112,0.0,0.78735524,at2_mature
+mBrain,Fibroblasts,444,0.04789044,0.0,0.17834646,at2_mature
+mBrain,MAST cells,508,0.6939764,0.7475339,0.35514277,at2_mature
+mBrain,Myeloid cells,5657,0.09917585,0.0,0.28651473,at2_mature
+mBrain,T/NK cells,2683,0.284542,0.0,0.39421684,at2_mature
+mBrain,,2835,0.24640551,0.0,0.37624073,at2_mature
+mLN,B lymphocytes,6062,0.003990384,0.0,0.02404846,at2_mature
+mLN,Epithelial cells,3053,0.4095629,0.13862944,0.57866323,at2_mature
+mLN,Myeloid cells,5442,0.015093711,0.0,0.053806238,at2_mature
+mLN,T/NK cells,5069,0.008834093,0.0,0.03615574,at2_mature
+mLN,,1819,0.009507807,0.0,0.03546465,at2_mature
+nLN,B lymphocytes,10584,0.00079033256,0.0,0.01075563,at2_mature
+nLN,Myeloid cells,1288,0.039357916,0.0,0.10918283,at2_mature
+nLN,T/NK cells,19478,0.0012319552,0.0,0.013254433,at2_mature
+nLN,,6096,0.001271789,0.0,0.013759922,at2_mature
+nLung,B lymphocytes,634,0.24879028,0.21972246,0.21396907,at2_mature
+nLung,Endothelial cells,1295,0.20199957,0.13862944,0.17503285,at2_mature
+nLung,Epithelial cells,3703,2.3480604,3.099279,1.881542,at2_mature
+nLung,Fibroblasts,1585,0.24615738,0.21972246,0.32001296,at2_mature
+nLung,MAST cells,1079,0.19677398,0.13862944,0.17521174,at2_mature
+nLung,Myeloid cells,16672,0.41414598,0.3583519,0.2967053,at2_mature
+nLung,T/NK cells,11413,0.19558223,0.13862944,0.16402197,at2_mature
+nLung,,6614,0.19334531,0.13862944,0.16256948,at2_mature
+tL/B,B lymphocytes,469,0.00726695,0.0,0.032815326,at2_mature
+tL/B,Epithelial cells,6582,0.05760373,0.0,0.18733676,at2_mature
+tL/B,Myeloid cells,1329,0.0115143005,0.0,0.04599669,at2_mature
+tL/B,T/NK cells,2627,0.0042834184,0.0,0.025162674,at2_mature
+tL/B,,963,0.0036831037,0.0,0.022716949,at2_mature
+tLung,B lymphocytes,5312,0.1273032,0.13862944,0.15315145,at2_mature
+tLung,Endothelial cells,627,0.17168516,0.13862944,0.17211047,at2_mature
+tLung,Epithelial cells,7270,1.2415063,0.99396265,1.1750174,at2_mature
+tLung,Fibroblasts,1654,0.11423985,0.13862944,0.13663867,at2_mature
+tLung,MAST cells,1809,0.10543893,0.13862944,0.12382933,at2_mature
+tLung,Myeloid cells,8794,0.21608412,0.13862944,0.21376944,at2_mature
+tLung,T/NK cells,13941,0.08910592,0.0,0.11280511,at2_mature
+tLung,,5742,0.090842016,0.0,0.1124046,at2_mature
+PE,B lymphocytes,3285,0.0174013,0.0,0.04606366,epithelial_progenitor_like
+PE,Epithelial cells,396,2.060405,1.8890128,1.2452128,epithelial_progenitor_like
+PE,Myeloid cells,3063,0.041494872,0.0,0.08123221,epithelial_progenitor_like
+PE,T/NK cells,9192,0.020625362,0.0,0.047205176,epithelial_progenitor_like
+PE,,4368,0.0225007,0.0,0.052280873,epithelial_progenitor_like
+mBrain,B lymphocytes,1311,0.09734159,0.099021025,0.13462459,epithelial_progenitor_like
+mBrain,Endothelial cells,159,0.24953902,0.19804205,0.26054305,epithelial_progenitor_like
+mBrain,Epithelial cells,15463,1.7687473,1.7305654,0.9629448,epithelial_progenitor_like
+mBrain,Fibroblasts,444,0.24552454,0.19804205,0.27409872,epithelial_progenitor_like
+mBrain,MAST cells,508,0.08028757,0.099021025,0.10845977,epithelial_progenitor_like
+mBrain,Myeloid cells,5657,0.122708306,0.099021025,0.18033017,epithelial_progenitor_like
+mBrain,T/NK cells,2683,0.061975963,0.0,0.10384743,epithelial_progenitor_like
+mBrain,,2835,0.0642427,0.0,0.1279057,epithelial_progenitor_like
+mLN,B lymphocytes,6062,0.018382423,0.0,0.048271567,epithelial_progenitor_like
+mLN,Epithelial cells,3053,1.9130704,2.0874195,1.2105397,epithelial_progenitor_like
+mLN,Myeloid cells,5442,0.083657764,0.0,0.11853083,epithelial_progenitor_like
+mLN,T/NK cells,5069,0.025618095,0.0,0.055809833,epithelial_progenitor_like
+mLN,,1819,0.033105843,0.0,0.07993167,epithelial_progenitor_like
+nLN,B lymphocytes,10584,0.002536582,0.0,0.017093362,epithelial_progenitor_like
+nLN,Myeloid cells,1288,0.008926829,0.0,0.03796235,epithelial_progenitor_like
+nLN,T/NK cells,19478,0.0027351496,0.0,0.01660123,epithelial_progenitor_like
+nLN,,6096,0.0024650467,0.0,0.016198147,epithelial_progenitor_like
+nLung,B lymphocytes,634,0.013468052,0.0,0.046999484,epithelial_progenitor_like
+nLung,Endothelial cells,1295,0.03309317,0.0,0.07225504,epithelial_progenitor_like
+nLung,Epithelial cells,3703,1.0537304,0.9978166,0.553001,epithelial_progenitor_like
+nLung,Fibroblasts,1585,0.04624447,0.0,0.15839644,epithelial_progenitor_like
+nLung,MAST cells,1079,0.023844752,0.0,0.049534436,epithelial_progenitor_like
+nLung,Myeloid cells,16672,0.030317785,0.0,0.063648045,epithelial_progenitor_like
+nLung,T/NK cells,11413,0.006361936,0.0,0.027376989,epithelial_progenitor_like
+nLung,,6614,0.0118284905,0.0,0.08828751,epithelial_progenitor_like
+tL/B,B lymphocytes,469,0.05906631,0.0,0.11492548,epithelial_progenitor_like
+tL/B,Epithelial cells,6582,1.8816174,1.8788702,0.90082794,epithelial_progenitor_like
+tL/B,Myeloid cells,1329,0.10569621,0.099021025,0.15060025,epithelial_progenitor_like
+tL/B,T/NK cells,2627,0.03903299,0.0,0.066602424,epithelial_progenitor_like
+tL/B,,963,0.03915574,0.0,0.08030365,epithelial_progenitor_like
+tLung,B lymphocytes,5312,0.033738904,0.0,0.073941655,epithelial_progenitor_like
+tLung,Endothelial cells,627,0.084186174,0.0,0.12736481,epithelial_progenitor_like
+tLung,Epithelial cells,7270,1.7898633,1.7313602,0.88809687,epithelial_progenitor_like
+tLung,Fibroblasts,1654,0.080550425,0.0,0.23151053,epithelial_progenitor_like
+tLung,MAST cells,1809,0.039314486,0.0,0.06847049,epithelial_progenitor_like
+tLung,Myeloid cells,8794,0.07682045,0.0,0.12265738,epithelial_progenitor_like
+tLung,T/NK cells,13941,0.03495179,0.0,0.073315054,epithelial_progenitor_like
+tLung,,5742,0.038578793,0.0,0.081901856,epithelial_progenitor_like
+PE,B lymphocytes,3285,0.026984802,0.0,0.1403233,proliferating_epithelial
+PE,Epithelial cells,396,0.3925571,0.23104906,0.62541413,proliferating_epithelial
+PE,Myeloid cells,3063,0.054811236,0.0,0.17823507,proliferating_epithelial
+PE,T/NK cells,9192,0.029548857,0.0,0.13746525,proliferating_epithelial
+PE,,4368,0.022082226,0.0,0.11052138,proliferating_epithelial
+mBrain,B lymphocytes,1311,0.042062033,0.0,0.16507155,proliferating_epithelial
+mBrain,Endothelial cells,159,0.08205052,0.0,0.22102715,proliferating_epithelial
+mBrain,Epithelial cells,15463,0.15508527,0.0,0.31314015,proliferating_epithelial
+mBrain,Fibroblasts,444,0.16230814,0.0,0.24885273,proliferating_epithelial
+mBrain,MAST cells,508,0.018081358,0.0,0.06604387,proliferating_epithelial
+mBrain,Myeloid cells,5657,0.085020825,0.0,0.24669917,proliferating_epithelial
+mBrain,T/NK cells,2683,0.05624068,0.0,0.1834527,proliferating_epithelial
+mBrain,,2835,0.044174384,0.0,0.14047557,proliferating_epithelial
+mLN,B lymphocytes,6062,0.06711793,0.0,0.25570846,proliferating_epithelial
+mLN,Epithelial cells,3053,0.26029465,0.0,0.4884538,proliferating_epithelial
+mLN,Myeloid cells,5442,0.12799054,0.0,0.32317042,proliferating_epithelial
+mLN,T/NK cells,5069,0.06595327,0.0,0.22406577,proliferating_epithelial
+mLN,,1819,0.08121386,0.0,0.26230654,proliferating_epithelial
+nLN,B lymphocytes,10584,0.0274113,0.0,0.15243895,proliferating_epithelial
+nLN,Myeloid cells,1288,0.0665479,0.0,0.20755795,proliferating_epithelial
+nLN,T/NK cells,19478,0.026295172,0.0,0.1253258,proliferating_epithelial
+nLN,,6096,0.022532854,0.0,0.12372287,proliferating_epithelial
+nLung,B lymphocytes,634,0.018577686,0.0,0.07355101,proliferating_epithelial
+nLung,Endothelial cells,1295,0.041084796,0.0,0.11012297,proliferating_epithelial
+nLung,Epithelial cells,3703,0.05468606,0.0,0.13174106,proliferating_epithelial
+nLung,Fibroblasts,1585,0.04902693,0.0,0.11604722,proliferating_epithelial
+nLung,MAST cells,1079,0.016964445,0.0,0.07832067,proliferating_epithelial
+nLung,Myeloid cells,16672,0.08981744,0.0,0.21143518,proliferating_epithelial
+nLung,T/NK cells,11413,0.033358768,0.0,0.13303688,proliferating_epithelial
+nLung,,6614,0.025988815,0.0,0.10678409,proliferating_epithelial
+tL/B,B lymphocytes,469,0.026872206,0.0,0.1313931,proliferating_epithelial
+tL/B,Epithelial cells,6582,0.18486452,0.0,0.368917,proliferating_epithelial
+tL/B,Myeloid cells,1329,0.064561,0.0,0.20161265,proliferating_epithelial
+tL/B,T/NK cells,2627,0.05215398,0.0,0.17006856,proliferating_epithelial
+tL/B,,963,0.035726316,0.0,0.120471105,proliferating_epithelial
+tLung,B lymphocytes,5312,0.030334061,0.0,0.15003341,proliferating_epithelial
+tLung,Endothelial cells,627,0.06226981,0.0,0.14404349,proliferating_epithelial
+tLung,Epithelial cells,7270,0.1426429,0.0,0.29665828,proliferating_epithelial
+tLung,Fibroblasts,1654,0.07185096,0.0,0.13319905,proliferating_epithelial
+tLung,MAST cells,1809,0.018156428,0.0,0.085724495,proliferating_epithelial
+tLung,Myeloid cells,8794,0.08466636,0.0,0.23042136,proliferating_epithelial
+tLung,T/NK cells,13941,0.048998978,0.0,0.16948763,proliferating_epithelial
+tLung,,5742,0.03943237,0.0,0.1493249,proliferating_epithelial
+PE,B lymphocytes,3285,0.027831946,0.0,0.07287045,spp1_macrophage
+PE,Epithelial cells,396,0.93422484,0.82374793,0.65049344,spp1_macrophage
+PE,Myeloid cells,3063,0.41570243,0.27725887,0.4436895,spp1_macrophage
+PE,T/NK cells,9192,0.048891593,0.0,0.087764554,spp1_macrophage
+PE,,4368,0.039645422,0.0,0.07814096,spp1_macrophage
+mBrain,B lymphocytes,1311,0.22761174,0.13862944,0.2631531,spp1_macrophage
+mBrain,Endothelial cells,159,0.3803977,0.27725887,0.34074065,spp1_macrophage
+mBrain,Epithelial cells,15463,0.89769924,0.837931,0.5474441,spp1_macrophage
+mBrain,Fibroblasts,444,0.97722447,0.8999126,0.5879026,spp1_macrophage
+mBrain,MAST cells,508,0.5301622,0.49698132,0.2940527,spp1_macrophage
+mBrain,Myeloid cells,5657,1.5773002,1.4566896,0.9687814,spp1_macrophage
+mBrain,T/NK cells,2683,0.22341152,0.13862944,0.2130586,spp1_macrophage
+mBrain,,2835,0.41327623,0.21972246,0.5196747,spp1_macrophage
+mLN,B lymphocytes,6062,0.10781619,0.0,0.15041275,spp1_macrophage
+mLN,Epithelial cells,3053,0.9360464,0.79779685,0.66716164,spp1_macrophage
+mLN,Myeloid cells,5442,1.6793978,1.7403357,1.043669,spp1_macrophage
+mLN,T/NK cells,5069,0.13148138,0.13862944,0.1642865,spp1_macrophage
+mLN,,1819,0.122229435,0.0,0.17204975,spp1_macrophage
+nLN,B lymphocytes,10584,0.058424715,0.0,0.1494886,spp1_macrophage
+nLN,Myeloid cells,1288,1.0610057,0.54161006,1.3109653,spp1_macrophage
+nLN,T/NK cells,19478,0.030844726,0.0,0.074691065,spp1_macrophage
+nLN,,6096,0.02496001,0.0,0.0703455,spp1_macrophage
+nLung,B lymphocytes,634,0.113138996,0.0,0.16571859,spp1_macrophage
+nLung,Endothelial cells,1295,0.28661847,0.13862944,0.34076113,spp1_macrophage
+nLung,Epithelial cells,3703,0.62145615,0.5991465,0.35645038,spp1_macrophage
+nLung,Fibroblasts,1585,0.4968668,0.46051702,0.3286678,spp1_macrophage
+nLung,MAST cells,1079,0.41622674,0.4158883,0.27173063,spp1_macrophage
+nLung,Myeloid cells,16672,1.3683724,1.4309231,0.8495871,spp1_macrophage
+nLung,T/NK cells,11413,0.08566432,0.0,0.11734559,spp1_macrophage
+nLung,,6614,0.08895053,0.0,0.13869949,spp1_macrophage
+tL/B,B lymphocytes,469,0.0870257,0.0,0.15257786,spp1_macrophage
+tL/B,Epithelial cells,6582,0.65630966,0.57807434,0.46544605,spp1_macrophage
+tL/B,Myeloid cells,1329,0.8515151,0.46051702,0.86301047,spp1_macrophage
+tL/B,T/NK cells,2627,0.08059607,0.0,0.11210564,spp1_macrophage
+tL/B,,963,0.07640129,0.0,0.11216082,spp1_macrophage
+tLung,B lymphocytes,5312,0.112751916,0.0,0.158615,spp1_macrophage
+tLung,Endothelial cells,627,0.3446973,0.27725887,0.31071955,spp1_macrophage
+tLung,Epithelial cells,7270,0.8323046,0.79779685,0.46155614,spp1_macrophage
+tLung,Fibroblasts,1654,0.7239986,0.6931472,0.3932383,spp1_macrophage
+tLung,MAST cells,1809,0.5026359,0.47957906,0.3066277,spp1_macrophage
+tLung,Myeloid cells,8794,1.48745,1.4755518,0.9696894,spp1_macrophage
+tLung,T/NK cells,13941,0.12353071,0.13862944,0.14119704,spp1_macrophage
+tLung,,5742,0.10568392,0.13862944,0.13352865,spp1_macrophage
+PE,B lymphocytes,3285,0.019697608,0.0,0.06041638,c1q_macrophage
+PE,Epithelial cells,396,0.3380656,0.13862944,0.44099927,c1q_macrophage
+PE,Myeloid cells,3063,0.8620101,0.43944493,0.9519529,c1q_macrophage
+PE,T/NK cells,9192,0.019079613,0.0,0.05512595,c1q_macrophage
+PE,,4368,0.023907984,0.0,0.062291842,c1q_macrophage
+mBrain,B lymphocytes,1311,0.17086674,0.13862944,0.24033907,c1q_macrophage
+mBrain,Endothelial cells,159,0.19207226,0.13862944,0.25164497,c1q_macrophage
+mBrain,Epithelial cells,15463,0.16445093,0.13862944,0.24142747,c1q_macrophage
+mBrain,Fibroblasts,444,0.64815384,0.5991465,0.47706327,c1q_macrophage
+mBrain,MAST cells,508,0.22074234,0.21972246,0.17700216,c1q_macrophage
+mBrain,Myeloid cells,5657,2.0145268,1.9786875,1.302655,c1q_macrophage
+mBrain,T/NK cells,2683,0.12799962,0.13862944,0.16420554,c1q_macrophage
+mBrain,,2835,0.14841685,0.13862944,0.24477303,c1q_macrophage
+mLN,B lymphocytes,6062,0.087946065,0.0,0.122689255,c1q_macrophage
+mLN,Epithelial cells,3053,0.34817943,0.27725887,0.39201796,c1q_macrophage
+mLN,Myeloid cells,5442,1.7830553,1.730065,1.3179414,c1q_macrophage
+mLN,T/NK cells,5069,0.06857057,0.0,0.10732312,c1q_macrophage
+mLN,,1819,0.067888044,0.0,0.11690777,c1q_macrophage
+nLN,B lymphocytes,10584,0.052022565,0.0,0.11546249,c1q_macrophage
+nLN,Myeloid cells,1288,0.89042234,0.32188758,1.2001473,c1q_macrophage
+nLN,T/NK cells,19478,0.017804028,0.0,0.054760575,c1q_macrophage
+nLN,,6096,0.016345311,0.0,0.0550379,c1q_macrophage
+nLung,B lymphocytes,634,0.1961013,0.13862944,0.267482,c1q_macrophage
+nLung,Endothelial cells,1295,0.16494791,0.13862944,0.3912188,c1q_macrophage
+nLung,Epithelial cells,3703,0.30503136,0.13862944,0.44968528,c1q_macrophage
+nLung,Fibroblasts,1585,0.18343264,0.13862944,0.32795146,c1q_macrophage
+nLung,MAST cells,1079,0.17520852,0.13862944,0.34977907,c1q_macrophage
+nLung,Myeloid cells,16672,2.3059597,2.5121331,1.290955,c1q_macrophage
+nLung,T/NK cells,11413,0.13037907,0.13862944,0.15272662,c1q_macrophage
+nLung,,6614,0.1324378,0.13862944,0.18202937,c1q_macrophage
+tL/B,B lymphocytes,469,0.08191183,0.0,0.13575542,c1q_macrophage
+tL/B,Epithelial cells,6582,0.13774976,0.0,0.26077458,c1q_macrophage
+tL/B,Myeloid cells,1329,1.2249358,0.49698132,1.3822569,c1q_macrophage
+tL/B,T/NK cells,2627,0.044836808,0.0,0.08059372,c1q_macrophage
+tL/B,,963,0.041644137,0.0,0.07374061,c1q_macrophage
+tLung,B lymphocytes,5312,0.109397024,0.0,0.14173548,c1q_macrophage
+tLung,Endothelial cells,627,0.1403832,0.13862944,0.22571906,c1q_macrophage
+tLung,Epithelial cells,7270,0.19930482,0.13862944,0.2970272,c1q_macrophage
+tLung,Fibroblasts,1654,0.30843207,0.21972246,0.3229956,c1q_macrophage
+tLung,MAST cells,1809,0.15657237,0.13862944,0.19217578,c1q_macrophage
+tLung,Myeloid cells,8794,2.1595092,2.2853951,1.3818696,c1q_macrophage
+tLung,T/NK cells,13941,0.087539114,0.0,0.12473788,c1q_macrophage
+tLung,,5742,0.0803319,0.0,0.118003875,c1q_macrophage
+PE,B lymphocytes,3285,0.15332198,0.13862944,0.12934662,inflammatory_macrophage
+PE,Epithelial cells,396,0.44016504,0.4158883,0.35480332,inflammatory_macrophage
+PE,Myeloid cells,3063,0.7563309,0.6089045,0.5978081,inflammatory_macrophage
+PE,T/NK cells,9192,0.16883017,0.13862944,0.15204857,inflammatory_macrophage
+PE,,4368,0.16881369,0.13862944,0.15636836,inflammatory_macrophage
+mBrain,B lymphocytes,1311,0.22390996,0.13862944,0.22591266,inflammatory_macrophage
+mBrain,Endothelial cells,159,0.37503573,0.32188758,0.28812277,inflammatory_macrophage
+mBrain,Epithelial cells,15463,0.48849842,0.38918203,0.4278984,inflammatory_macrophage
+mBrain,Fibroblasts,444,0.4858225,0.4158883,0.4005084,inflammatory_macrophage
+mBrain,MAST cells,508,0.23658513,0.13862944,0.23821276,inflammatory_macrophage
+mBrain,Myeloid cells,5657,1.3070818,1.1962829,0.9262656,inflammatory_macrophage
+mBrain,T/NK cells,2683,0.28878018,0.21972246,0.28604198,inflammatory_macrophage
+mBrain,,2835,0.23201142,0.13862944,0.26605603,inflammatory_macrophage
+mLN,B lymphocytes,6062,0.19885118,0.13862944,0.20022799,inflammatory_macrophage
+mLN,Epithelial cells,3053,0.73448586,0.63561076,0.6243873,inflammatory_macrophage
+mLN,Myeloid cells,5442,1.8489925,1.9180702,1.1293303,inflammatory_macrophage
+mLN,T/NK cells,5069,0.21053283,0.13862944,0.22172296,inflammatory_macrophage
+mLN,,1819,0.24267647,0.13862944,0.27265117,inflammatory_macrophage
+nLN,B lymphocytes,10584,0.11336701,0.0,0.17682242,inflammatory_macrophage
+nLN,Myeloid cells,1288,0.67114335,0.27725887,0.8209968,inflammatory_macrophage
+nLN,T/NK cells,19478,0.11729923,0.0,0.1579524,inflammatory_macrophage
+nLN,,6096,0.13002475,0.0,0.20548871,inflammatory_macrophage
+nLung,B lymphocytes,634,0.19259991,0.13862944,0.22165488,inflammatory_macrophage
+nLung,Endothelial cells,1295,0.24673651,0.13862944,0.26712665,inflammatory_macrophage
+nLung,Epithelial cells,3703,0.42708227,0.3583519,0.3855762,inflammatory_macrophage
+nLung,Fibroblasts,1585,0.35889745,0.3583519,0.3046308,inflammatory_macrophage
+nLung,MAST cells,1079,0.44308826,0.43944493,0.22705111,inflammatory_macrophage
+nLung,Myeloid cells,16672,1.1263515,1.0385914,0.76329,inflammatory_macrophage
+nLung,T/NK cells,11413,0.23857008,0.13862944,0.23302478,inflammatory_macrophage
+nLung,,6614,0.26157376,0.21972246,0.25886953,inflammatory_macrophage
+tL/B,B lymphocytes,469,0.36325136,0.3583519,0.24952833,inflammatory_macrophage
+tL/B,Epithelial cells,6582,0.3279004,0.21972246,0.3768525,inflammatory_macrophage
+tL/B,Myeloid cells,1329,1.5280688,1.5914354,0.85004306,inflammatory_macrophage
+tL/B,T/NK cells,2627,0.26818177,0.21972246,0.26160753,inflammatory_macrophage
+tL/B,,963,0.3152684,0.21972246,0.33244783,inflammatory_macrophage
+tLung,B lymphocytes,5312,0.19279277,0.13862944,0.22460556,inflammatory_macrophage
+tLung,Endothelial cells,627,0.26084056,0.21972246,0.26244414,inflammatory_macrophage
+tLung,Epithelial cells,7270,0.5005378,0.4158883,0.3989914,inflammatory_macrophage
+tLung,Fibroblasts,1654,0.33945683,0.27725887,0.3093881,inflammatory_macrophage
+tLung,MAST cells,1809,0.47721815,0.47957906,0.21182317,inflammatory_macrophage
+tLung,Myeloid cells,8794,1.3207401,1.2507658,0.91469103,inflammatory_macrophage
+tLung,T/NK cells,13941,0.20443875,0.13862944,0.18492268,inflammatory_macrophage
+tLung,,5742,0.21120779,0.13862944,0.20362222,inflammatory_macrophage
+PE,B lymphocytes,3285,0.0062425365,0.0,0.033370394,resident_macrophage
+PE,Epithelial cells,396,0.12358626,0.0,0.18446498,resident_macrophage
+PE,Myeloid cells,3063,0.3497194,0.27465308,0.31644437,resident_macrophage
+PE,T/NK cells,9192,0.0028608702,0.0,0.022433037,resident_macrophage
+PE,,4368,0.003045011,0.0,0.023481585,resident_macrophage
+mBrain,B lymphocytes,1311,0.0117540015,0.0,0.04659098,resident_macrophage
+mBrain,Endothelial cells,159,0.034341056,0.0,0.08271359,resident_macrophage
+mBrain,Epithelial cells,15463,0.023363609,0.0,0.0721362,resident_macrophage
+mBrain,Fibroblasts,444,0.03512634,0.0,0.08894113,resident_macrophage
+mBrain,MAST cells,508,0.0044924687,0.0,0.034164235,resident_macrophage
+mBrain,Myeloid cells,5657,0.33806825,0.1732868,0.40126008,resident_macrophage
+mBrain,T/NK cells,2683,0.0063782777,0.0,0.033777393,resident_macrophage
+mBrain,,2835,0.0062046926,0.0,0.035025008,resident_macrophage
+mLN,B lymphocytes,6062,0.00897653,0.0,0.041554447,resident_macrophage
+mLN,Epithelial cells,3053,0.043982483,0.0,0.1190609,resident_macrophage
+mLN,Myeloid cells,5442,0.4351683,0.3465736,0.46049768,resident_macrophage
+mLN,T/NK cells,5069,0.0055471146,0.0,0.032162525,resident_macrophage
+mLN,,1819,0.0048585082,0.0,0.029185524,resident_macrophage
+nLN,B lymphocytes,10584,0.008787441,0.0,0.04012803,resident_macrophage
+nLN,Myeloid cells,1288,0.2076344,0.0,0.37986532,resident_macrophage
+nLN,T/NK cells,19478,0.00124787,0.0,0.015186882,resident_macrophage
+nLN,,6096,0.0010684018,0.0,0.0140872225,resident_macrophage
+nLung,B lymphocytes,634,0.05292425,0.0,0.107627526,resident_macrophage
+nLung,Endothelial cells,1295,0.07310372,0.0,0.20355314,resident_macrophage
+nLung,Epithelial cells,3703,0.083957404,0.0,0.2152554,resident_macrophage
+nLung,Fibroblasts,1585,0.03333086,0.0,0.13484125,resident_macrophage
+nLung,MAST cells,1079,0.04965543,0.0,0.17506692,resident_macrophage
+nLung,Myeloid cells,16672,1.044777,1.1077042,0.6995205,resident_macrophage
+nLung,T/NK cells,11413,0.03103308,0.0,0.07426242,resident_macrophage
+nLung,,6614,0.03239718,0.0,0.08942436,resident_macrophage
+tL/B,B lymphocytes,469,0.008128592,0.0,0.036679316,resident_macrophage
+tL/B,Epithelial cells,6582,0.056162033,0.0,0.10565308,resident_macrophage
+tL/B,Myeloid cells,1329,0.27107194,0.0,0.50438464,resident_macrophage
+tL/B,T/NK cells,2627,0.0055247876,0.0,0.031334933,resident_macrophage
+tL/B,,963,0.004318674,0.0,0.02815858,resident_macrophage
+tLung,B lymphocytes,5312,0.018590773,0.0,0.058620725,resident_macrophage
+tLung,Endothelial cells,627,0.05981939,0.0,0.12270535,resident_macrophage
+tLung,Epithelial cells,7270,0.04064722,0.0,0.11004563,resident_macrophage
+tLung,Fibroblasts,1654,0.015048713,0.0,0.06972803,resident_macrophage
+tLung,MAST cells,1809,0.0116424505,0.0,0.049140867,resident_macrophage
+tLung,Myeloid cells,8794,0.69095296,0.5198604,0.67131275,resident_macrophage
+tLung,T/NK cells,13941,0.011764477,0.0,0.046574406,resident_macrophage
+tLung,,5742,0.009453959,0.0,0.041704167,resident_macrophage
+PE,B lymphocytes,3285,0.03704714,0.023104906,0.035427645,refined_epithelial_progenitor_like
+PE,Epithelial cells,396,1.4333748,1.3620632,0.9205472,refined_epithelial_progenitor_like
+PE,Myeloid cells,3063,0.104701355,0.08796858,0.075789034,refined_epithelial_progenitor_like
+PE,T/NK cells,9192,0.029381476,0.023104906,0.02803653,refined_epithelial_progenitor_like
+PE,,4368,0.027650768,0.023104906,0.030172778,refined_epithelial_progenitor_like
+mBrain,B lymphocytes,1311,0.06871871,0.046209812,0.069341995,refined_epithelial_progenitor_like
+mBrain,Endothelial cells,159,0.47575387,0.40243784,0.30764955,refined_epithelial_progenitor_like
+mBrain,Epithelial cells,15463,1.0480196,0.9459698,0.6551096,refined_epithelial_progenitor_like
+mBrain,Fibroblasts,444,0.4855124,0.465199,0.29021412,refined_epithelial_progenitor_like
+mBrain,MAST cells,508,0.041502606,0.023104906,0.046378963,refined_epithelial_progenitor_like
+mBrain,Myeloid cells,5657,0.14357233,0.11552453,0.11985258,refined_epithelial_progenitor_like
+mBrain,T/NK cells,2683,0.044913735,0.023104906,0.046549276,refined_epithelial_progenitor_like
+mBrain,,2835,0.063413695,0.036620412,0.10289471,refined_epithelial_progenitor_like
+mLN,B lymphocytes,6062,0.046167955,0.046209812,0.042637307,refined_epithelial_progenitor_like
+mLN,Epithelial cells,3053,1.3346812,1.3424052,0.8332933,refined_epithelial_progenitor_like
+mLN,Myeloid cells,5442,0.18159194,0.16120939,0.12497441,refined_epithelial_progenitor_like
+mLN,T/NK cells,5069,0.03742947,0.023104906,0.038483247,refined_epithelial_progenitor_like
+mLN,,1819,0.039495748,0.023104906,0.053494275,refined_epithelial_progenitor_like
+nLN,B lymphocytes,10584,0.02936142,0.023104906,0.03202634,refined_epithelial_progenitor_like
+nLN,Myeloid cells,1288,0.11465851,0.076752834,0.11849542,refined_epithelial_progenitor_like
+nLN,T/NK cells,19478,0.010079514,0.0,0.017566277,refined_epithelial_progenitor_like
+nLN,,6096,0.011721873,0.0,0.022828992,refined_epithelial_progenitor_like
+nLung,B lymphocytes,634,0.06440917,0.046209812,0.055663045,refined_epithelial_progenitor_like
+nLung,Endothelial cells,1295,0.31480035,0.2898948,0.14121862,refined_epithelial_progenitor_like
+nLung,Epithelial cells,3703,0.6014614,0.5079315,0.39759016,refined_epithelial_progenitor_like
+nLung,Fibroblasts,1585,0.21496831,0.19620347,0.14171083,refined_epithelial_progenitor_like
+nLung,MAST cells,1079,0.034934696,0.023104906,0.04481334,refined_epithelial_progenitor_like
+nLung,Myeloid cells,16672,0.20638035,0.1843143,0.13884076,refined_epithelial_progenitor_like
+nLung,T/NK cells,11413,0.028296113,0.023104906,0.029269125,refined_epithelial_progenitor_like
+nLung,,6614,0.034365688,0.023104906,0.07916152,refined_epithelial_progenitor_like
+tL/B,B lymphocytes,469,0.06286287,0.046209812,0.0767533,refined_epithelial_progenitor_like
+tL/B,Epithelial cells,6582,1.2028875,1.1556647,0.63021517,refined_epithelial_progenitor_like
+tL/B,Myeloid cells,1329,0.14329584,0.09985774,0.14116187,refined_epithelial_progenitor_like
+tL/B,T/NK cells,2627,0.041036755,0.036620412,0.037213407,refined_epithelial_progenitor_like
+tL/B,,963,0.036410015,0.023104906,0.04759265,refined_epithelial_progenitor_like
+tLung,B lymphocytes,5312,0.051191226,0.046209812,0.04956388,refined_epithelial_progenitor_like
+tLung,Endothelial cells,627,0.39219758,0.361585,0.18708989,refined_epithelial_progenitor_like
+tLung,Epithelial cells,7270,1.1310308,1.0436859,0.64067876,refined_epithelial_progenitor_like
+tLung,Fibroblasts,1654,0.3072581,0.2864718,0.19617617,refined_epithelial_progenitor_like
+tLung,MAST cells,1809,0.038066935,0.023104906,0.03653646,refined_epithelial_progenitor_like
+tLung,Myeloid cells,8794,0.17314221,0.15214494,0.11568968,refined_epithelial_progenitor_like
+tLung,T/NK cells,13941,0.03851983,0.023104906,0.03910387,refined_epithelial_progenitor_like
+tLung,,5742,0.040211268,0.023104906,0.054020163,refined_epithelial_progenitor_like
+PE,B lymphocytes,3285,0.15456149,0.12836058,0.1843828,refined_proliferating_epithelial
+PE,Epithelial cells,396,1.0742486,0.87489307,0.8129624,refined_proliferating_epithelial
+PE,Myeloid cells,3063,0.39900303,0.38030115,0.2413278,refined_proliferating_epithelial
+PE,T/NK cells,9192,0.17258671,0.1540327,0.15074098,refined_proliferating_epithelial
+PE,,4368,0.16824302,0.14337781,0.13953348,refined_proliferating_epithelial
+mBrain,B lymphocytes,1311,0.14508814,0.09203358,0.23080651,refined_proliferating_epithelial
+mBrain,Endothelial cells,159,0.40421474,0.31242773,0.35370547,refined_proliferating_epithelial
+mBrain,Epithelial cells,15463,0.61015695,0.5104688,0.49034485,refined_proliferating_epithelial
+mBrain,Fibroblasts,444,0.5044354,0.47619843,0.34727827,refined_proliferating_epithelial
+mBrain,MAST cells,508,0.15066926,0.13467404,0.0810593,refined_proliferating_epithelial
+mBrain,Myeloid cells,5657,0.3335179,0.23541139,0.33529457,refined_proliferating_epithelial
+mBrain,T/NK cells,2683,0.15751937,0.117705695,0.1914374,refined_proliferating_epithelial
+mBrain,,2835,0.18186414,0.117705695,0.2024171,refined_proliferating_epithelial
+mLN,B lymphocytes,6062,0.19158691,0.12836058,0.31048664,refined_proliferating_epithelial
+mLN,Epithelial cells,3053,0.8078156,0.6447036,0.6452534,refined_proliferating_epithelial
+mLN,Myeloid cells,5442,0.42753276,0.34007186,0.38376692,refined_proliferating_epithelial
+mLN,T/NK cells,5069,0.18651332,0.14337781,0.22991708,refined_proliferating_epithelial
+mLN,,1819,0.19151166,0.117705695,0.30272806,refined_proliferating_epithelial
+nLN,B lymphocytes,10584,0.13511074,0.10268847,0.19809599,refined_proliferating_epithelial
+nLN,Myeloid cells,1288,0.34126058,0.23931363,0.32821348,refined_proliferating_epithelial
+nLN,T/NK cells,19478,0.12913679,0.117705695,0.13935837,refined_proliferating_epithelial
+nLN,,6096,0.11917137,0.09203358,0.15375884,refined_proliferating_epithelial
+nLung,B lymphocytes,634,0.16865116,0.14337781,0.14534569,refined_proliferating_epithelial
+nLung,Endothelial cells,1295,0.23597856,0.19472206,0.17254296,refined_proliferating_epithelial
+nLung,Epithelial cells,3703,0.26994395,0.23977374,0.19924316,refined_proliferating_epithelial
+nLung,Fibroblasts,1585,0.30559567,0.30177286,0.17033276,refined_proliferating_epithelial
+nLung,MAST cells,1079,0.18654062,0.16904993,0.113709435,refined_proliferating_epithelial
+nLung,Myeloid cells,16672,0.4492033,0.42090803,0.29598838,refined_proliferating_epithelial
+nLung,T/NK cells,11413,0.13110252,0.10705081,0.14326684,refined_proliferating_epithelial
+nLung,,6614,0.12310682,0.10268847,0.12032313,refined_proliferating_epithelial
+tL/B,B lymphocytes,469,0.1269088,0.10268847,0.14657356,refined_proliferating_epithelial
+tL/B,Epithelial cells,6582,0.57602394,0.40446132,0.5226376,refined_proliferating_epithelial
+tL/B,Myeloid cells,1329,0.28436375,0.19233173,0.28878203,refined_proliferating_epithelial
+tL/B,T/NK cells,2627,0.16343085,0.12836058,0.20146348,refined_proliferating_epithelial
+tL/B,,963,0.12782717,0.10705081,0.12783323,refined_proliferating_epithelial
+tLung,B lymphocytes,5312,0.1425365,0.10705081,0.19857559,refined_proliferating_epithelial
+tLung,Endothelial cells,627,0.31002462,0.25433087,0.23021466,refined_proliferating_epithelial
+tLung,Epithelial cells,7270,0.50601864,0.3826915,0.431897,refined_proliferating_epithelial
+tLung,Fibroblasts,1654,0.38145867,0.38030115,0.18689914,refined_proliferating_epithelial
+tLung,MAST cells,1809,0.17551225,0.15839504,0.11926424,refined_proliferating_epithelial
+tLung,Myeloid cells,8794,0.41003752,0.3631887,0.30496317,refined_proliferating_epithelial
+tLung,T/NK cells,13941,0.15421389,0.12836058,0.18277054,refined_proliferating_epithelial
+tLung,,5742,0.13018541,0.10268847,0.16218494,refined_proliferating_epithelial
+PE,B lymphocytes,3285,0.014153889,0.0,0.019357137,refined_spp1_macrophage
+PE,Epithelial cells,396,0.3348155,0.33742726,0.2618074,refined_spp1_macrophage
+PE,Myeloid cells,3063,0.07763519,0.047803253,0.07764086,refined_spp1_macrophage
+PE,T/NK cells,9192,0.030050682,0.023901626,0.024773648,refined_spp1_macrophage
+PE,,4368,0.028566051,0.023901626,0.025225911,refined_spp1_macrophage
+mBrain,B lymphocytes,1311,0.038542084,0.023901626,0.049670465,refined_spp1_macrophage
+mBrain,Endothelial cells,159,0.10798132,0.08568644,0.092778645,refined_spp1_macrophage
+mBrain,Epithelial cells,15463,0.2784428,0.25077236,0.18739998,refined_spp1_macrophage
+mBrain,Fibroblasts,444,0.22654903,0.19275805,0.16675353,refined_spp1_macrophage
+mBrain,MAST cells,508,0.073667884,0.07170488,0.043531742,refined_spp1_macrophage
+mBrain,Myeloid cells,5657,0.24157771,0.19430308,0.20412588,refined_spp1_macrophage
+mBrain,T/NK cells,2683,0.043062806,0.037883185,0.038561802,refined_spp1_macrophage
+mBrain,,2835,0.08295632,0.047803253,0.103866786,refined_spp1_macrophage
+mLN,B lymphocytes,6062,0.024902603,0.023901626,0.029481482,refined_spp1_macrophage
+mLN,Epithelial cells,3053,0.38529146,0.4004691,0.25012252,refined_spp1_macrophage
+mLN,Myeloid cells,5442,0.27467564,0.24985014,0.2059335,refined_spp1_macrophage
+mLN,T/NK cells,5069,0.034277033,0.023901626,0.031134974,refined_spp1_macrophage
+mLN,,1819,0.03892527,0.023901626,0.04551531,refined_spp1_macrophage
+nLN,B lymphocytes,10584,0.01621926,0.0,0.027457828,refined_spp1_macrophage
+nLN,Myeloid cells,1288,0.26716173,0.07170488,0.4425909,refined_spp1_macrophage
+nLN,T/NK cells,19478,0.017570319,0.023901626,0.020985546,refined_spp1_macrophage
+nLN,,6096,0.016100202,0.0,0.021123832,refined_spp1_macrophage
+nLung,B lymphocytes,634,0.03513835,0.023901626,0.06349759,refined_spp1_macrophage
+nLung,Endothelial cells,1295,0.05758922,0.047803253,0.05782578,refined_spp1_macrophage
+nLung,Epithelial cells,3703,0.16521534,0.15278678,0.09803749,refined_spp1_macrophage
+nLung,Fibroblasts,1585,0.13980985,0.1334897,0.087537535,refined_spp1_macrophage
+nLung,MAST cells,1079,0.0556624,0.047803253,0.03884517,refined_spp1_macrophage
+nLung,Myeloid cells,16672,0.13466623,0.11950813,0.10641292,refined_spp1_macrophage
+nLung,T/NK cells,11413,0.026274258,0.023901626,0.026578695,refined_spp1_macrophage
+nLung,,6614,0.027014622,0.023901626,0.036933675,refined_spp1_macrophage
+tL/B,B lymphocytes,469,0.049391784,0.037883185,0.050931554,refined_spp1_macrophage
+tL/B,Epithelial cells,6582,0.26826373,0.24307775,0.17096494,refined_spp1_macrophage
+tL/B,Myeloid cells,1329,0.15083256,0.099667996,0.15927614,refined_spp1_macrophage
+tL/B,T/NK cells,2627,0.048426595,0.047803253,0.041543815,refined_spp1_macrophage
+tL/B,,963,0.07152667,0.047803253,0.0894956,refined_spp1_macrophage
+tLung,B lymphocytes,5312,0.023840211,0.023901626,0.029574385,refined_spp1_macrophage
+tLung,Endothelial cells,627,0.07098402,0.06178481,0.062444262,refined_spp1_macrophage
+tLung,Epithelial cells,7270,0.2840089,0.26860124,0.15298349,refined_spp1_macrophage
+tLung,Fibroblasts,1654,0.1709494,0.15110436,0.11798557,refined_spp1_macrophage
+tLung,MAST cells,1809,0.06378218,0.06178481,0.041651506,refined_spp1_macrophage
+tLung,Myeloid cells,8794,0.22723128,0.17137288,0.21208487,refined_spp1_macrophage
+tLung,T/NK cells,13941,0.028110946,0.023901626,0.027410347,refined_spp1_macrophage
+tLung,,5742,0.026272494,0.023901626,0.031797845,refined_spp1_macrophage
+PE,B lymphocytes,3285,0.025244512,0.023104906,0.030139107,refined_c1q_macrophage
+PE,Epithelial cells,396,0.4159401,0.401316,0.32573918,refined_c1q_macrophage
+PE,Myeloid cells,3063,0.2012553,0.15607104,0.16385171,refined_c1q_macrophage
+PE,T/NK cells,9192,0.027821984,0.023104906,0.027688457,refined_c1q_macrophage
+PE,,4368,0.027729748,0.023104906,0.02758135,refined_c1q_macrophage
+mBrain,B lymphocytes,1311,0.06531347,0.046209812,0.07036854,refined_c1q_macrophage
+mBrain,Endothelial cells,159,0.18764603,0.14255553,0.16844277,refined_c1q_macrophage
+mBrain,Epithelial cells,15463,0.24648215,0.17524984,0.22123577,refined_c1q_macrophage
+mBrain,Fibroblasts,444,0.44522214,0.4042207,0.28044215,refined_c1q_macrophage
+mBrain,MAST cells,508,0.09039075,0.08283022,0.060629398,refined_c1q_macrophage
+mBrain,Myeloid cells,5657,0.43228573,0.36930206,0.3049146,refined_c1q_macrophage
+mBrain,T/NK cells,2683,0.046962257,0.046209812,0.044344965,refined_c1q_macrophage
+mBrain,,2835,0.0869801,0.046209812,0.14087246,refined_c1q_macrophage
+mLN,B lymphocytes,6062,0.04823114,0.046209812,0.04560167,refined_c1q_macrophage
+mLN,Epithelial cells,3053,0.467693,0.46209,0.31771466,refined_c1q_macrophage
+mLN,Myeloid cells,5442,0.5201147,0.4837402,0.37395465,refined_c1q_macrophage
+mLN,T/NK cells,5069,0.04884242,0.046209812,0.045424942,refined_c1q_macrophage
+mLN,,1819,0.041528225,0.023104906,0.04735529,refined_c1q_macrophage
+nLN,B lymphocytes,10584,0.028312597,0.023104906,0.041210603,refined_c1q_macrophage
+nLN,Myeloid cells,1288,0.33133173,0.16566044,0.41420394,refined_c1q_macrophage
+nLN,T/NK cells,19478,0.019575734,0.023104906,0.025098654,refined_c1q_macrophage
+nLN,,6096,0.016311701,0.0,0.023335634,refined_c1q_macrophage
+nLung,B lymphocytes,634,0.07143088,0.046209812,0.06709128,refined_c1q_macrophage
+nLung,Endothelial cells,1295,0.15615225,0.11552453,0.19923936,refined_c1q_macrophage
+nLung,Epithelial cells,3703,0.2813696,0.23890127,0.24968494,refined_c1q_macrophage
+nLung,Fibroblasts,1585,0.33031845,0.32823053,0.18377592,refined_c1q_macrophage
+nLung,MAST cells,1079,0.08376887,0.046209812,0.16622184,refined_c1q_macrophage
+nLung,Myeloid cells,16672,1.0863622,1.1394157,0.7544883,refined_c1q_macrophage
+nLung,T/NK cells,11413,0.051914163,0.046209812,0.046092484,refined_c1q_macrophage
+nLung,,6614,0.0564292,0.046209812,0.08210292,refined_c1q_macrophage
+tL/B,B lymphocytes,469,0.038074184,0.023104906,0.050093114,refined_c1q_macrophage
+tL/B,Epithelial cells,6582,0.263318,0.21187025,0.20464553,refined_c1q_macrophage
+tL/B,Myeloid cells,1329,0.3226438,0.13040076,0.4585957,refined_c1q_macrophage
+tL/B,T/NK cells,2627,0.028554497,0.023104906,0.030059703,refined_c1q_macrophage
+tL/B,,963,0.025701363,0.023104906,0.029085482,refined_c1q_macrophage
+tLung,B lymphocytes,5312,0.04817725,0.036620412,0.05051692,refined_c1q_macrophage
+tLung,Endothelial cells,627,0.16506532,0.13862944,0.120577246,refined_c1q_macrophage
+tLung,Epithelial cells,7270,0.30593157,0.27159557,0.19677012,refined_c1q_macrophage
+tLung,Fibroblasts,1654,0.36993533,0.36824715,0.16477093,refined_c1q_macrophage
+tLung,MAST cells,1809,0.07091875,0.059725318,0.059992496,refined_c1q_macrophage
+tLung,Myeloid cells,8794,0.68392247,0.5333961,0.5725004,refined_c1q_macrophage
+tLung,T/NK cells,13941,0.03855509,0.023104906,0.035412904,refined_c1q_macrophage
+tLung,,5742,0.035007153,0.023104906,0.04008994,refined_c1q_macrophage
+PE,B lymphocytes,3285,0.06913229,0.06178481,0.05311841,refined_inflammatory_macrophage
+PE,Epithelial cells,396,0.21789236,0.20519458,0.18911369,refined_inflammatory_macrophage
+PE,Myeloid cells,3063,0.37773198,0.33407974,0.25056,refined_inflammatory_macrophage
+PE,T/NK cells,9192,0.09797923,0.08568644,0.06225055,refined_inflammatory_macrophage
+PE,,4368,0.08719854,0.07170488,0.065442294,refined_inflammatory_macrophage
+mBrain,B lymphocytes,1311,0.10230492,0.07170488,0.10232981,refined_inflammatory_macrophage
+mBrain,Endothelial cells,159,0.13505903,0.08568644,0.14135362,refined_inflammatory_macrophage
+mBrain,Epithelial cells,15463,0.16282773,0.11950813,0.15317193,refined_inflammatory_macrophage
+mBrain,Fibroblasts,444,0.14636299,0.099667996,0.1487829,refined_inflammatory_macrophage
+mBrain,MAST cells,508,0.09400929,0.07170488,0.089422405,refined_inflammatory_macrophage
+mBrain,Myeloid cells,5657,0.54795426,0.4675694,0.41286498,refined_inflammatory_macrophage
+mBrain,T/NK cells,2683,0.19141,0.15110436,0.15000528,refined_inflammatory_macrophage
+mBrain,,2835,0.12835519,0.08568644,0.13393928,refined_inflammatory_macrophage
+mLN,B lymphocytes,6062,0.134815,0.116093144,0.0922582,refined_inflammatory_macrophage
+mLN,Epithelial cells,3053,0.3846995,0.34274575,0.3111555,refined_inflammatory_macrophage
+mLN,Myeloid cells,5442,0.75540584,0.73054147,0.46828622,refined_inflammatory_macrophage
+mLN,T/NK cells,5069,0.18144639,0.15739132,0.11469412,refined_inflammatory_macrophage
+mLN,,1819,0.17037956,0.1334897,0.13061477,refined_inflammatory_macrophage
+nLN,B lymphocytes,10584,0.11092039,0.095606506,0.083799966,refined_inflammatory_macrophage
+nLN,Myeloid cells,1288,0.36905578,0.1952745,0.39238223,refined_inflammatory_macrophage
+nLN,T/NK cells,19478,0.12126044,0.103301115,0.08402409,refined_inflammatory_macrophage
+nLN,,6096,0.114236146,0.08568644,0.10004608,refined_inflammatory_macrophage
+nLung,B lymphocytes,634,0.15421769,0.13198951,0.12162713,refined_inflammatory_macrophage
+nLung,Endothelial cells,1295,0.07479953,0.047803253,0.103027724,refined_inflammatory_macrophage
+nLung,Epithelial cells,3703,0.11438346,0.08568644,0.117801316,refined_inflammatory_macrophage
+nLung,Fibroblasts,1585,0.12687859,0.109588064,0.11474596,refined_inflammatory_macrophage
+nLung,MAST cells,1079,0.127699,0.11364955,0.08802064,refined_inflammatory_macrophage
+nLung,Myeloid cells,16672,0.36597764,0.29451412,0.28525138,refined_inflammatory_macrophage
+nLung,T/NK cells,11413,0.17763036,0.15739132,0.09997519,refined_inflammatory_macrophage
+nLung,,6614,0.17985733,0.15739132,0.111258306,refined_inflammatory_macrophage
+tL/B,B lymphocytes,469,0.16264772,0.14747125,0.11415269,refined_inflammatory_macrophage
+tL/B,Epithelial cells,6582,0.19406396,0.14340976,0.18562216,refined_inflammatory_macrophage
+tL/B,Myeloid cells,1329,0.6001554,0.59051776,0.34712058,refined_inflammatory_macrophage
+tL/B,T/NK cells,2627,0.21409181,0.1903952,0.12740399,refined_inflammatory_macrophage
+tL/B,,963,0.19437064,0.15739132,0.1459783,refined_inflammatory_macrophage
+tLung,B lymphocytes,5312,0.15124695,0.1334897,0.10635697,refined_inflammatory_macrophage
+tLung,Endothelial cells,627,0.09550281,0.07170488,0.11423254,refined_inflammatory_macrophage
+tLung,Epithelial cells,7270,0.23203976,0.18129295,0.19685258,refined_inflammatory_macrophage
+tLung,Fibroblasts,1654,0.14905314,0.12356962,0.13683113,refined_inflammatory_macrophage
+tLung,MAST cells,1809,0.13826865,0.12356962,0.09147514,refined_inflammatory_macrophage
+tLung,Myeloid cells,8794,0.5924521,0.51549435,0.42658937,refined_inflammatory_macrophage
+tLung,T/NK cells,13941,0.18723935,0.17137288,0.09537848,refined_inflammatory_macrophage
+tLung,,5742,0.16508421,0.15110436,0.0953802,refined_inflammatory_macrophage
+PE,B lymphocytes,3285,0.21255903,0.20579287,0.06328494,candidate_mechanism_genes
+PE,Epithelial cells,396,0.49709386,0.5392877,0.32002074,candidate_mechanism_genes
+PE,Myeloid cells,3063,0.59090817,0.51622653,0.32807386,candidate_mechanism_genes
+PE,T/NK cells,9192,0.16278861,0.15607104,0.070431575,candidate_mechanism_genes
+PE,,4368,0.15082732,0.14255553,0.07551746,candidate_mechanism_genes
+mBrain,B lymphocytes,1311,0.23882996,0.21187025,0.14606278,candidate_mechanism_genes
+mBrain,Endothelial cells,159,0.27267548,0.19620347,0.2086095,candidate_mechanism_genes
+mBrain,Epithelial cells,15463,0.33102134,0.2925492,0.22487423,candidate_mechanism_genes
+mBrain,Fibroblasts,444,0.4778153,0.40770316,0.33016336,candidate_mechanism_genes
+mBrain,MAST cells,508,0.16797933,0.15214494,0.096427135,candidate_mechanism_genes
+mBrain,Myeloid cells,5657,0.9574073,0.8667044,0.5145395,candidate_mechanism_genes
+mBrain,T/NK cells,2683,0.23566334,0.19835475,0.15114164,candidate_mechanism_genes
+mBrain,,2835,0.21654803,0.16566044,0.17475115,candidate_mechanism_genes
+mLN,B lymphocytes,6062,0.25979155,0.24755163,0.09124598,candidate_mechanism_genes
+mLN,Epithelial cells,3053,0.57208043,0.56157947,0.35703903,candidate_mechanism_genes
+mLN,Myeloid cells,5442,1.1495657,1.1662207,0.5696261,candidate_mechanism_genes
+mLN,T/NK cells,5069,0.20555812,0.18876535,0.10911901,candidate_mechanism_genes
+mLN,,1819,0.18417104,0.15958306,0.11843799,candidate_mechanism_genes
+nLN,B lymphocytes,10584,0.22041236,0.21453834,0.09122033,candidate_mechanism_genes
+nLN,Myeloid cells,1288,0.6197315,0.37048152,0.58462757,candidate_mechanism_genes
+nLN,T/NK cells,19478,0.13615333,0.12458898,0.07841367,candidate_mechanism_genes
+nLN,,6096,0.1293303,0.10593513,0.096293785,candidate_mechanism_genes
+nLung,B lymphocytes,634,0.26523888,0.25710827,0.12745647,candidate_mechanism_genes
+nLung,Endothelial cells,1295,0.23309886,0.19390371,0.17580679,candidate_mechanism_genes
+nLung,Epithelial cells,3703,0.33172932,0.310789,0.22410232,candidate_mechanism_genes
+nLung,Fibroblasts,1585,0.27516466,0.25808007,0.17362025,candidate_mechanism_genes
+nLung,MAST cells,1079,0.21771081,0.19938047,0.14300224,candidate_mechanism_genes
+nLung,Myeloid cells,16672,1.0198774,1.0392505,0.426348,candidate_mechanism_genes
+nLung,T/NK cells,11413,0.22215845,0.21187025,0.09895635,candidate_mechanism_genes
+nLung,,6614,0.22193089,0.20794415,0.10961033,candidate_mechanism_genes
+tL/B,B lymphocytes,469,0.2783461,0.27136326,0.11948007,candidate_mechanism_genes
+tL/B,Epithelial cells,6582,0.27964523,0.22145966,0.22345501,candidate_mechanism_genes
+tL/B,Myeloid cells,1329,0.7941031,0.67861897,0.47385132,candidate_mechanism_genes
+tL/B,T/NK cells,2627,0.2190848,0.20579287,0.10746382,candidate_mechanism_genes
+tL/B,,963,0.19785613,0.17917594,0.11478225,candidate_mechanism_genes
+tLung,B lymphocytes,5312,0.24751917,0.24241328,0.10120891,candidate_mechanism_genes
+tLung,Endothelial cells,627,0.26019016,0.2331922,0.1511925,candidate_mechanism_genes
+tLung,Epithelial cells,7270,0.3882025,0.35430965,0.21911378,candidate_mechanism_genes
+tLung,Fibroblasts,1654,0.35527888,0.34462935,0.1903475,candidate_mechanism_genes
+tLung,MAST cells,1809,0.20544352,0.19620347,0.09151451,candidate_mechanism_genes
+tLung,Myeloid cells,8794,1.0537641,1.065119,0.47635183,candidate_mechanism_genes
+tLung,T/NK cells,13941,0.22428906,0.216408,0.088658966,candidate_mechanism_genes
+tLung,,5742,0.20769596,0.19835475,0.088963024,candidate_mechanism_genes

@@ -1,0 +1,6 @@
+﻿display_rank,axis_id,axis_short_label,evidence_grade,priority_score
+1,mif_cd74_cxcr4,MIF-CD74/CXCR4,lead,0.788554
+2,spp1_trem2_macrophage_epithelial,SPP1/TREM2/PLA2G7,strong,0.74775
+3,cxcl9_cxcl10_cxcr3,CXCL9/10-CXCR3,supporting,0.613663
+4,c1q_apoe_trem2_lgals3,C1Q/APOE/TREM2,supporting,0.602282
+5,inflammatory_il1_tnf_cxcl8,IL1B/TNF/CXCL8,benchmark_or_secondary,0.506149

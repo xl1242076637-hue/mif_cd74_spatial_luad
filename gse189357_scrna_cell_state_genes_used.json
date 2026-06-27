@@ -1,0 +1,1145 @@
+{
+  "GSM5699777": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699778": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699779": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699780": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699781": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699782": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699783": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699784": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  },
+  "GSM5699785": {
+    "epithelial": [
+      "EPCAM",
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "MUC1",
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2"
+    ],
+    "macrophage": [
+      "LYZ",
+      "LST1",
+      "CD68",
+      "CD163",
+      "MS4A7",
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "SPP1"
+    ],
+    "mast_cell": [
+      "TPSAB1",
+      "TPSB2",
+      "CPA3",
+      "MS4A2",
+      "KIT",
+      "HDC"
+    ],
+    "neutrophil": [
+      "S100A8",
+      "S100A9",
+      "FCGR3B",
+      "CSF3R",
+      "CXCR2",
+      "AZU1",
+      "ELANE"
+    ],
+    "dendritic": [
+      "CD1C",
+      "CLEC10A",
+      "FCER1A",
+      "LILRA4",
+      "CLEC9A"
+    ],
+    "t_nk": [
+      "PTPRC",
+      "CD3D",
+      "CD3E",
+      "TRAC",
+      "NKG7",
+      "GNLY"
+    ],
+    "b_plasma": [
+      "MS4A1",
+      "CD79A",
+      "CD79B",
+      "MZB1",
+      "JCHAIN"
+    ],
+    "endothelial": [
+      "PECAM1",
+      "VWF",
+      "KDR",
+      "CLDN5",
+      "ENG"
+    ],
+    "fibroblast": [
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM"
+    ],
+    "at2_mature": [
+      "SFTPC",
+      "SFTPA1",
+      "SFTPA2",
+      "LAMP3",
+      "ABCA3"
+    ],
+    "epithelial_progenitor_like": [
+      "KRT8",
+      "KRT18",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "EPCAM",
+      "MUC1"
+    ],
+    "proliferating_epithelial": [
+      "MKI67",
+      "TOP2A",
+      "PCNA"
+    ],
+    "spp1_macrophage": [
+      "SPP1",
+      "APOE",
+      "LGALS3",
+      "TREM2",
+      "CD9"
+    ],
+    "c1q_macrophage": [
+      "C1QA",
+      "C1QB",
+      "C1QC",
+      "APOE",
+      "MS4A7"
+    ],
+    "inflammatory_macrophage": [
+      "IL1B",
+      "CXCL8",
+      "NFKBIA",
+      "TNF",
+      "CCL3"
+    ],
+    "resident_macrophage": [
+      "SELENOP",
+      "FOLR2",
+      "MRC1",
+      "PPARG",
+      "MARCO"
+    ]
+  }
+}

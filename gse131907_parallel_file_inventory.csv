@@ -1,0 +1,2 @@
+﻿accession,filename,url,local_path,remote_bytes,local_bytes,download_complete,download_status
+GSE131907,GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131907/suppl/GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE131907\GSE131907_Lung_Cancer_raw_UMI_matrix.txt.gz,408736818,0,False,missing

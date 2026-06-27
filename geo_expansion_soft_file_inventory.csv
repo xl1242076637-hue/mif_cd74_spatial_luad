@@ -1,0 +1,5 @@
+﻿accession,filename,url,local_path,remote_bytes,local_bytes,download_complete,download_status
+GSE307534,GSE307534_family.soft.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE307nnn/GSE307534/soft/GSE307534_family.soft.gz,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE307534\GSE307534_family.soft.gz,6119,0,False,missing
+GSE308103,GSE308103_family.soft.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE308nnn/GSE308103/soft/GSE308103_family.soft.gz,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE308103\GSE308103_family.soft.gz,8321,0,False,missing
+GSE164789,GSE164789_family.soft.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE164nnn/GSE164789/soft/GSE164789_family.soft.gz,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE164789\GSE164789_family.soft.gz,8065,0,False,missing
+GSE131907,GSE131907_family.soft.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE131nnn/GSE131907/soft/GSE131907_family.soft.gz,D:\空间转录\luad_epithelial_macrophage_niche\data\raw\GSE131907\GSE131907_family.soft.gz,7084,0,False,missing
