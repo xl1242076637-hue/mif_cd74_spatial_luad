@@ -1,0 +1,33 @@
+# Fundamental numerical computing libraries
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+
+# Single-cell & spatial transcriptomics core I/O
+anndata==0.10.7
+scanpy==1.10.1
+h5py==3.11.0
+
+# Machine learning for clustering & dimensional reduction
+scikit-learn==1.4.2
+leidenalg==0.10.2
+umap-learn==0.5.6
+
+# Figure plotting libraries
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Statistical analysis & gene network tools
+statsmodels==0.14.2
+networkx==3.3
+
+# Network requests & progress tracking for GEO downloading
+requests==2.31.0
+tqdm==4.66.4
+
+# YAML config parser & spreadsheet processing
+pyyaml==6.0.1
+openpyxl==3.1.2
+
+# Spatial adjacency & visualization utilities
+adjusttext==0.8
